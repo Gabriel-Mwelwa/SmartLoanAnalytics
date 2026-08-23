@@ -1,0 +1,1 @@
+loan_id,customer_code,customer_name,principal,annual_interest_rate,term_months,application_date,approval_date,disbursement_date,due_date,status,eligibility_score,purpose

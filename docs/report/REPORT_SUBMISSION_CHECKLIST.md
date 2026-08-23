@@ -1,0 +1,27 @@
+# Phase 11 Documentation Checklist
+
+- [x] Technical report draft
+- [x] Problem definition
+- [x] Requirements analysis
+- [x] Architecture discussion
+- [x] OOP discussion
+- [x] Database/data management
+- [x] Validation
+- [x] Dataset source/process/ethics/limitations
+- [x] Three algorithms and Big O analysis
+- [x] Analytics and visualization justification
+- [x] Reporting
+- [x] Exception handling and logging
+- [x] Testing
+- [x] Performance evaluation
+- [x] Security and ethics
+- [x] At least three limitations
+- [x] Future improvements
+- [x] Conclusion
+- [x] Six-week design journal
+- [x] User manual
+- [ ] Add actual references used by the group
+- [ ] Add actual Git history/screenshots
+- [ ] Add individual contribution statements
+- [ ] Add actual screenshots from the final running application
+- [ ] Proofread final institution/course formatting

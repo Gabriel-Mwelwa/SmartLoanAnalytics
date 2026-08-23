@@ -1,0 +1,21 @@
+# Phase 10 Submission Checklist
+
+- [x] Problem statement
+- [x] System objectives
+- [x] Functional requirements
+- [x] Non-functional requirements
+- [x] Layered architecture
+- [x] Architecture diagram
+- [x] Use Case Diagram
+- [x] Class Diagram
+- [x] Loan Processing Activity Diagram
+- [x] Overall System Flowchart
+- [x] Entity Relationship Diagram
+- [x] Security design
+- [x] Validation design
+- [x] Analytics/reporting design
+- [x] Algorithm design references
+- [x] Assumptions
+- [x] Limitations
+- [x] Future improvements
+- [x] Oral defence design notes

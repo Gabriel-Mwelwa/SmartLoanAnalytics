@@ -1,0 +1,39 @@
+SmartLoan Analytics Management Report
+Generated,2026-08-17 15:25
+
+KEY PERFORMANCE INDICATORS
+Metric,Value
+Total customers,4
+Active customers,4
+Total loans,0
+Pending loans,0
+Approved loans,0
+Rejected loans,0
+Disbursed loans,0
+Completed loans,0
+Overdue loans,0
+Approval rate (%),0.0
+Approved principal (K),0.0
+Total repayments (K),0.0
+Outstanding portfolio (K),0.0
+Outstanding penalties (K),0.0
+
+SUMMARY STATISTICS
+Metric,Value
+Average Principal,0.0
+Average Interest Rate,0.0
+Average Term Months,0.0
+Average Eligibility Score,0.0
+Maximum Principal,0.0
+
+LOAN STATUS DISTRIBUTION
+Status,Total
+
+TOP CUSTOMERS
+Customer Code,Customer,Loans,Total Principal
+
+OVERDUE RISK RANKING
+Loan ID,Customer Code,Customer,Overdue Days,Outstanding Balance,Risk Score
+
+MANAGEMENT RECOMMENDATIONS
+1,Portfolio indicators are currently stable; continue routine monitoring and periodic review.

@@ -1,0 +1,651 @@
+loan_id,customer_code,customer_name,employment_status,monthly_income,principal,annual_interest_rate,term_months,application_date,approval_date,disbursement_date,due_date,status,eligibility_score,purpose,total_repaid,outstanding_penalties
+1,CUS-0083,Ruth Chanda,Employed,14412.0,28000.0,12.0,36,2026-01-07,2026-01-10,2026-01-13,2028-12-28,Completed,79.46,Business expansion,38080.0,0
+2,CUS-0195,Mercy Mwila,Self-Employed,16645.0,29700.0,18.0,18,2024-11-16,2024-11-18,2024-11-21,2026-05-15,Overdue,85.73,Business expansion,14858.66,457.21
+3,CUS-0097,Agnes Mulenga,Unemployed,3533.0,7000.0,18.0,6,2026-03-21,,,,Pending,84.15,House renovation,0,0
+4,CUS-0008,Ruth Phiri,Retired,6891.0,13100.0,20.0,12,2025-10-11,,,,Pending,84.79,Equipment purchase,0,0
+5,CUS-0151,Lillian Mbewe,Self-Employed,10878.0,800.0,10.0,9,2026-06-06,2026-06-12,2026-06-13,2027-03-10,Completed,99.41,Personal development,860.0,0
+6,CUS-0072,James Lungu,Unemployed,4133.0,27800.0,20.0,9,2025-09-25,,,,Rejected,46.19,Equipment purchase,0,0
+7,CUS-0003,Lillian Sakala,Unemployed,4765.0,28400.0,24.0,6,2026-07-22,,,,Rejected,52.32,School fees,0,0
+8,CUS-0033,Agnes Musonda,Student,4069.0,11000.0,10.0,9,2026-05-01,,,,Pending,78.37,Personal development,0,0
+9,CUS-0215,Chola Phiri,Student,4384.0,28400.0,10.0,24,2026-07-20,,,,Rejected,48.18,Emergency needs,0,0
+10,CUS-0164,James Ngoma,Other,3509.0,13500.0,20.0,6,2025-11-02,,,,Pending,69.22,Equipment purchase,0,0
+11,CUS-0088,Caroline Banda,Employed,17013.0,9100.0,10.0,6,2026-01-13,,,,Pending,95.72,School fees,0,0
+12,CUS-0168,Joshua Zulu,Other,1524.0,24600.0,10.0,18,2025-10-06,,,,Pending,45.0,House renovation,0,0
+13,CUS-0032,Grace Mumbula,Retired,3532.0,2300.0,18.0,24,2024-07-29,2024-07-31,2024-08-03,2026-07-24,Overdue,94.79,Business expansion,1506.27,32.43
+14,CUS-0107,Peter Zulu,Retired,6997.0,22200.0,12.0,24,2024-06-26,2024-06-28,2024-07-02,2026-06-22,Overdue,74.62,Business expansion,9499.0,360.58
+15,CUS-0103,Victor Zulu,Business Owner,18659.0,7500.0,10.0,3,2025-10-18,2025-10-22,2025-10-23,2026-01-21,Disbursed,96.78,Working capital,3218.3,0
+16,CUS-0179,Lillian Banda,Retired,5869.0,700.0,20.0,6,2026-02-14,2026-02-18,2026-02-18,2026-08-17,Disbursed,99.05,Medical expenses,209.92,0
+17,CUS-0174,Adrian Mwelwa,Unemployed,3181.0,3500.0,15.0,6,2026-01-25,2026-01-29,2026-01-30,2026-07-29,Overdue,91.2,Medical expenses,1845.72,38.34
+18,CUS-0178,Eunice Musonda,Other,2670.0,16900.0,12.0,6,2025-12-26,,,,Rejected,49.36,Business expansion,0,0
+19,CUS-0017,Kelvin Lungu,Student,151.0,4500.0,15.0,6,2025-09-24,,,,Rejected,45.0,Vehicle repair,0,0
+20,CUS-0076,Gabriel Nyirenda,Retired,4048.0,26900.0,15.0,12,2026-05-10,,,,Rejected,46.84,School fees,0,0
+21,CUS-0147,Thandiwe Tembo,Student,3450.0,5400.0,24.0,3,2026-02-17,2026-02-24,2026-02-28,2026-05-29,Overdue,87.48,Emergency needs,2457.07,0
+22,CUS-0125,Adrian Mwelwa,Other,1508.0,2500.0,12.0,36,2023-08-08,2023-08-11,2023-08-14,2026-07-29,Overdue,81.74,Vehicle repair,168.55,0
+23,CUS-0092,Natasha Chilufya,Self-Employed,19864.0,3800.0,24.0,18,2026-04-13,,,,Pending,98.47,Vehicle repair,0,0
+24,CUS-0088,Caroline Banda,Employed,17013.0,12600.0,18.0,24,2025-12-23,2025-12-28,2025-12-30,2027-12-20,Disbursed,94.08,Farm inputs,4236.75,0
+25,CUS-0037,Victor Musonda,Business Owner,20949.0,600.0,12.0,24,2026-04-03,2026-04-08,2026-04-08,2028-03-28,Disbursed,99.77,Working capital,482.99,0
+26,CUS-0177,Memory Ngoma,Retired,3069.0,4200.0,24.0,24,2024-06-03,2024-06-05,2024-06-09,2026-05-30,Overdue,89.05,Business expansion,1594.59,92.43
+27,CUS-0207,Caroline Mumbula,Business Owner,21136.0,23300.0,15.0,6,2025-10-14,2025-10-20,2025-10-20,2026-04-18,Disbursed,91.18,Personal development,6148.92,0
+28,CUS-0215,Chola Phiri,Student,4384.0,10800.0,15.0,24,2025-12-27,,,,Rejected,80.29,School fees,0,0
+29,CUS-0153,Ruth Banda,Student,4530.0,30000.0,20.0,36,2025-12-21,,,,Rejected,42.02,Working capital,0,0
+30,CUS-0033,Agnes Musonda,Student,4069.0,23500.0,12.0,9,2026-07-25,2026-07-27,,,Approved,53.8,Medical expenses,0,0
+31,CUS-0130,Agnes Sakala,Unemployed,4220.0,28900.0,12.0,24,2026-03-06,,,,Rejected,45.21,Working capital,0,0
+32,CUS-0183,Caroline Chilufya,Student,315.0,9500.0,15.0,3,2025-09-12,,,,Pending,45.0,Business expansion,0,0
+33,CUS-0169,Ruth Mwelwa,Student,4465.0,6600.0,10.0,3,2026-07-06,2026-07-13,2026-07-15,2026-10-13,Completed,88.17,Vehicle repair,6765.0,0
+34,CUS-0060,Memory Zulu,Business Owner,14164.0,29700.0,15.0,36,2026-07-09,2026-07-13,2026-07-13,2029-06-27,Disbursed,78.23,School fees,7805.86,0
+35,CUS-0041,Natasha Chilufya,Self-Employed,16059.0,10400.0,15.0,12,2025-10-08,2025-10-14,2025-10-18,2026-10-13,Completed,94.82,Farm inputs,11960.0,0
+36,CUS-0170,Lillian Lungu,Student,1579.0,4600.0,24.0,24,2026-05-27,2026-06-03,2026-06-04,2028-05-24,Disbursed,76.69,Working capital,4178.68,0
+37,CUS-0071,Gabriel Tembo,Other,4091.0,28000.0,15.0,24,2026-06-13,,,,Rejected,45.25,Personal development,0,0
+38,CUS-0216,Caroline Chanda,Student,3248.0,27000.0,15.0,24,2026-07-17,,,,Rejected,45.0,Emergency needs,0,0
+39,CUS-0135,Memory Kabwe,Student,4566.0,28600.0,15.0,6,2025-09-30,,,,Pending,49.89,Equipment purchase,0,0
+40,CUS-0087,James Nyirenda,Employed,3484.0,9400.0,24.0,9,2025-09-22,2025-09-23,2025-09-27,2026-06-24,Completed,78.42,Equipment purchase,11092.0,0
+41,CUS-0107,Peter Zulu,Retired,6997.0,4800.0,20.0,9,2025-10-01,2025-10-02,2025-10-03,2026-06-30,Overdue,94.51,Farm inputs,1100.69,88.39
+42,CUS-0046,Ruth Phiri,Other,1074.0,13600.0,24.0,36,2025-11-20,,,,Rejected,40.0,Emergency needs,0,0
+43,CUS-0159,Joshua Banda,Self-Employed,17113.0,4700.0,24.0,36,2025-12-10,2025-12-12,2025-12-14,2028-11-28,Disbursed,92.8,Vehicle repair,2648.92,0
+44,CUS-0123,Kelvin Ngoma,Self-Employed,4589.0,13600.0,20.0,36,2026-02-08,,,,Pending,71.29,Medical expenses,0,0
+45,CUS-0211,Grace Tembo,Business Owner,23453.0,26500.0,20.0,3,2025-10-12,2025-10-19,,,Approved,90.96,House renovation,0,0
+46,CUS-0131,Agnes Nyirenda,Other,2547.0,21600.0,24.0,36,2025-11-02,,,,Pending,40.0,Emergency needs,0,0
+47,CUS-0205,Brian Chanda,Retired,7393.0,27200.0,18.0,9,2025-11-26,,,,Pending,70.57,Equipment purchase,0,0
+48,CUS-0141,Chola Kunda,Employed,21652.0,10100.0,24.0,3,2026-04-05,2026-04-12,2026-04-14,2026-07-13,Disbursed,96.27,Working capital,1803.36,0
+49,CUS-0026,Brian Musonda,Retired,4777.0,15300.0,12.0,9,2025-10-16,2025-10-22,2025-10-26,2026-07-23,Overdue,74.38,School fees,704.79,319.44
+50,CUS-0216,Caroline Chanda,Student,3248.0,17800.0,15.0,24,2026-06-10,,,,Pending,56.16,School fees,0,0
+51,CUS-0030,Peter Mumbula,Retired,4125.0,10200.0,15.0,3,2026-01-29,2026-01-30,2026-01-31,2026-05-01,Overdue,80.22,Business expansion,2907.39,0
+52,CUS-0024,James Nyirenda,Other,4239.0,17400.0,10.0,36,2026-02-16,,,,Pending,62.16,Working capital,0,0
+53,CUS-0168,Joshua Zulu,Other,1524.0,21900.0,12.0,6,2026-05-24,,,,Pending,45.0,House renovation,0,0
+54,CUS-0122,Sibamba Chilufya,Unemployed,1632.0,19400.0,18.0,9,2025-09-26,,,,Pending,45.0,Personal development,0,0
+55,CUS-0037,Victor Musonda,Business Owner,20949.0,21500.0,15.0,3,2025-09-24,2025-10-01,,,Approved,91.79,Vehicle repair,0,0
+56,CUS-0076,Gabriel Nyirenda,Retired,4048.0,8600.0,20.0,36,2026-06-08,2026-06-10,2026-06-10,2029-05-25,Disbursed,78.0,Working capital,4960.24,0
+57,CUS-0094,Agnes Mumbula,Other,798.0,4500.0,15.0,12,2026-04-17,,,,Pending,54.89,Medical expenses,0,0
+58,CUS-0211,Grace Tembo,Business Owner,23453.0,20700.0,15.0,18,2026-06-15,2026-06-21,2026-06-22,2027-12-14,Disbursed,92.94,Emergency needs,18181.15,0
+59,CUS-0206,Joshua Banda,Unemployed,2031.0,6200.0,18.0,3,2026-01-28,,,,Pending,75.58,Medical expenses,0,0
+60,CUS-0203,Lillian Lungu,Business Owner,5076.0,12700.0,24.0,18,2024-12-16,2024-12-23,2024-12-26,2026-06-19,Overdue,79.98,Vehicle repair,2844.18,288.56
+61,CUS-0220,Thandiwe Chanda,Retired,2396.0,24000.0,24.0,3,2026-05-04,,,,Pending,45.0,Business expansion,0,0
+62,CUS-0097,Agnes Mulenga,Unemployed,3533.0,22400.0,10.0,36,2026-02-21,,,,Rejected,44.28,School fees,0,0
+63,CUS-0025,Ruth Mutale,Other,2.0,10700.0,18.0,24,2026-06-28,,,,Rejected,45.0,Medical expenses,0,0
+64,CUS-0074,Mercy Mumba,Business Owner,21042.0,27300.0,18.0,24,2026-05-23,2026-05-24,2026-05-25,2028-05-14,Disbursed,89.62,Vehicle repair,9779.17,0
+65,CUS-0036,Brian Kabwe,Business Owner,13423.0,27400.0,15.0,12,2026-03-07,2026-03-12,2026-03-14,2027-03-09,Disbursed,83.67,House renovation,16007.17,0
+66,CUS-0158,Eunice Kabwe,Retired,1917.0,1500.0,10.0,6,2025-10-02,2025-10-03,2025-10-03,2026-04-01,Disbursed,93.74,Emergency needs,478.58,0
+67,CUS-0172,Joshua Sakala,Business Owner,13164.0,14600.0,18.0,18,2026-05-09,,,,Rejected,91.13,Working capital,0,0
+68,CUS-0073,Victor Chanda,Student,1179.0,6100.0,10.0,24,2026-02-05,2026-02-08,,,Approved,58.61,Personal development,0,0
+69,CUS-0118,Thandiwe Tembo,Business Owner,11433.0,22300.0,18.0,36,2026-04-17,,,,Pending,79.4,House renovation,0,0
+70,CUS-0162,Adrian Chanda,Student,93.0,24400.0,24.0,18,2026-02-14,,,,Rejected,45.0,Working capital,0,0
+71,CUS-0214,Gabriel Banda,Retired,3163.0,17600.0,18.0,6,2025-12-18,,,,Rejected,55.49,Vehicle repair,0,0
+72,CUS-0064,Eunice Chanda,Retired,5309.0,7400.0,20.0,36,2026-01-14,,,,Pending,83.85,School fees,0,0
+73,CUS-0017,Kelvin Lungu,Student,151.0,4300.0,10.0,12,2026-01-15,,,,Rejected,45.0,Emergency needs,0,0
+74,CUS-0181,Caroline Mumbula,Business Owner,15005.0,29100.0,10.0,36,2025-10-22,,,,Pending,79.49,Equipment purchase,0,0
+75,CUS-0084,Brian Tembo,Student,306.0,28600.0,15.0,24,2026-03-08,,,,Rejected,45.0,Equipment purchase,0,0
+76,CUS-0079,Joshua Kunda,Retired,3260.0,16700.0,20.0,18,2026-03-17,,,,Rejected,59.02,House renovation,0,0
+77,CUS-0211,Grace Tembo,Business Owner,23453.0,24700.0,24.0,9,2026-05-01,2026-05-03,2026-05-05,2027-01-30,Disbursed,91.57,Equipment purchase,6073.69,0
+78,CUS-0178,Eunice Musonda,Other,2670.0,22000.0,15.0,9,2026-07-03,,,,Rejected,45.0,Medical expenses,0,0
+79,CUS-0042,Natasha Mbewe,Unemployed,1090.0,12300.0,10.0,9,2026-02-16,,,,Pending,45.0,Vehicle repair,0,0
+80,CUS-0048,Thandiwe Mumba,Retired,4708.0,9700.0,24.0,6,2026-04-20,2026-04-24,2026-04-24,2026-10-21,Disbursed,83.52,School fees,3017.62,0
+81,CUS-0206,Joshua Banda,Unemployed,2031.0,13300.0,18.0,24,2025-12-31,,,,Rejected,47.61,Equipment purchase,0,0
+82,CUS-0171,Natasha Mwelwa,Employed,18197.0,10400.0,18.0,36,2023-06-14,2023-06-15,2023-06-16,2026-05-31,Overdue,90.43,Medical expenses,6830.97,183.7
+83,CUS-0209,Lillian Chilufya,Unemployed,234.0,18500.0,10.0,18,2026-05-29,,,,Pending,45.0,Medical expenses,0,0
+84,CUS-0095,Gabriel Chilufya,Employed,9230.0,8900.0,24.0,6,2026-05-25,2026-05-28,2026-06-01,2026-11-28,Completed,92.29,School fees,9968.0,0
+85,CUS-0057,Thandiwe Musonda,Unemployed,1379.0,11300.0,18.0,18,2026-06-15,,,,Rejected,45.0,Working capital,0,0
+86,CUS-0137,Agnes Chilufya,Unemployed,4556.0,1300.0,12.0,24,2024-07-20,2024-07-21,2024-07-25,2026-07-15,Overdue,97.72,School fees,397.1,24.3
+87,CUS-0191,Eunice Mbewe,Self-Employed,23417.0,21700.0,10.0,36,2026-02-10,,,,Pending,87.59,School fees,0,0
+88,CUS-0154,Natasha Mutale,Self-Employed,20344.0,14300.0,10.0,6,2025-11-20,2025-11-21,2025-11-21,2026-05-20,Disbursed,94.38,Farm inputs,8828.8,0
+89,CUS-0204,Sibamba Kunda,Retired,1993.0,16000.0,15.0,18,2025-11-20,,,,Rejected,45.0,Business expansion,0,0
+90,CUS-0014,Chola Chilufya,Business Owner,12953.0,13500.0,12.0,24,2026-03-21,2026-03-25,,,Approved,91.66,Business expansion,0,0
+91,CUS-0219,Thandiwe Kunda,Self-Employed,5058.0,21400.0,12.0,3,2026-01-24,2026-01-31,2026-02-04,2026-05-05,Overdue,66.15,Business expansion,9101.55,258.81
+92,CUS-0053,Peter Tembo,Self-Employed,9727.0,8300.0,15.0,6,2025-11-29,2025-12-02,2025-12-04,2026-06-02,Overdue,93.17,Farm inputs,4025.58,97.94
+93,CUS-0219,Thandiwe Kunda,Self-Employed,5058.0,26500.0,18.0,3,2025-11-10,,,,Rejected,58.09,Farm inputs,0,0
+94,CUS-0171,Natasha Mwelwa,Employed,18197.0,20200.0,18.0,24,2026-03-12,2026-03-17,2026-03-17,2028-03-06,Disbursed,91.12,School fees,3550.94,0
+95,CUS-0082,Victor Banda,Unemployed,2052.0,27700.0,10.0,12,2025-10-23,,,,Rejected,45.0,House renovation,0,0
+96,CUS-0037,Victor Musonda,Business Owner,20949.0,14800.0,10.0,6,2026-04-09,,,,Pending,94.35,Vehicle repair,0,0
+97,CUS-0086,Eunice Nyirenda,Student,4708.0,13400.0,12.0,6,2025-10-23,,,,Rejected,77.23,Business expansion,0,0
+98,CUS-0167,Kelvin Mbewe,Self-Employed,22050.0,5700.0,18.0,18,2025-01-02,2025-01-07,2025-01-08,2026-07-02,Overdue,97.93,House renovation,651.18,0
+99,CUS-0088,Caroline Banda,Employed,17013.0,28200.0,10.0,3,2025-10-01,2025-10-08,2025-10-09,2026-01-07,Completed,86.74,Farm inputs,28905.0,0
+100,CUS-0144,Brian Chilufya,Business Owner,5832.0,20800.0,10.0,36,2025-12-11,2025-12-12,,,Approved,66.47,Personal development,0,0
+101,CUS-0052,Thandiwe Mumbula,Other,4896.0,17800.0,12.0,6,2026-03-30,2026-04-04,,,Approved,70.92,House renovation,0,0
+102,CUS-0137,Agnes Chilufya,Unemployed,4556.0,19100.0,20.0,36,2026-04-28,2026-05-03,2026-05-04,2029-04-18,Completed,61.46,Working capital,30560.0,0
+103,CUS-0034,Sibamba Mwila,Other,4269.0,20100.0,15.0,9,2025-12-13,2025-12-20,2025-12-23,2026-09-19,Completed,62.33,Vehicle repair,22361.25,0
+104,CUS-0089,Joshua Mwila,Unemployed,2745.0,12000.0,24.0,36,2026-02-17,2026-02-23,2026-02-27,2029-02-11,Disbursed,60.03,Medical expenses,10835.29,0
+105,CUS-0027,Sibamba Mwila,Retired,3937.0,8100.0,10.0,9,2025-10-30,2025-11-02,2025-11-03,2026-07-31,Overdue,83.54,Farm inputs,2.6,0
+106,CUS-0139,Adrian Chanda,Unemployed,4785.0,16400.0,24.0,3,2026-01-21,,,,Pending,72.58,Emergency needs,0,0
+107,CUS-0215,Chola Phiri,Student,4384.0,3700.0,10.0,36,2025-12-20,,,,Rejected,88.25,Vehicle repair,0,0
+108,CUS-0204,Sibamba Kunda,Retired,1993.0,3200.0,20.0,24,2026-05-02,2026-05-08,2026-05-10,2028-04-29,Completed,87.16,Business expansion,4480.0,0
+109,CUS-0035,Kelvin Zulu,Self-Employed,11805.0,23700.0,24.0,6,2025-11-19,,,,Pending,83.94,Business expansion,0,0
+110,CUS-0188,Victor Mumba,Unemployed,1733.0,18800.0,15.0,9,2026-03-19,,,,Rejected,45.0,Medical expenses,0,0
+111,CUS-0154,Natasha Mutale,Self-Employed,20344.0,17800.0,24.0,12,2026-06-22,2026-06-28,2026-06-28,2027-06-23,Disbursed,93.0,Business expansion,6501.8,0
+112,CUS-0148,Lillian Mbewe,Student,303.0,22000.0,15.0,3,2026-07-04,,,,Rejected,45.0,Medical expenses,0,0
+113,CUS-0165,Peter Mumbula,Self-Employed,15931.0,12600.0,20.0,9,2025-10-06,2025-10-13,2025-10-17,2026-07-14,Disbursed,93.67,Vehicle repair,5629.0,0
+114,CUS-0046,Ruth Phiri,Other,1074.0,12300.0,20.0,6,2026-05-27,,,,Rejected,45.0,Emergency needs,0,0
+115,CUS-0140,Agnes Mbewe,Unemployed,4506.0,17700.0,20.0,6,2026-07-20,,,,Pending,68.58,Business expansion,0,0
+116,CUS-0106,Eunice Nyirenda,Employed,23281.0,3900.0,10.0,36,2025-11-16,2025-11-21,2025-11-21,2028-11-05,Completed,93.66,House renovation,5070.0,0
+117,CUS-0086,Eunice Nyirenda,Student,4708.0,13000.0,24.0,24,2026-01-19,,,,Rejected,77.91,Working capital,0,0
+118,CUS-0118,Thandiwe Tembo,Business Owner,11433.0,25000.0,24.0,24,2026-04-27,2026-04-30,2026-05-03,2028-04-22,Completed,82.51,Personal development,37000.0,0
+119,CUS-0173,James Kunda,Unemployed,1184.0,11000.0,20.0,6,2026-05-02,,,,Rejected,45.0,Personal development,0,0
+120,CUS-0028,Eunice Mumbula,Unemployed,547.0,27500.0,24.0,9,2026-07-11,,,,Pending,45.0,Emergency needs,0,0
+121,CUS-0148,Lillian Mbewe,Student,303.0,26400.0,15.0,18,2026-07-25,,,,Rejected,45.0,Equipment purchase,0,0
+122,CUS-0173,James Kunda,Unemployed,1184.0,700.0,10.0,9,2025-10-24,,,,Pending,95.27,Equipment purchase,0,0
+123,CUS-0034,Sibamba Mwila,Other,4269.0,24100.0,24.0,3,2026-02-06,,,,Pending,54.84,Emergency needs,0,0
+124,CUS-0087,James Nyirenda,Employed,3484.0,8400.0,24.0,18,2025-10-11,2025-10-12,2025-10-16,2027-04-09,Disbursed,80.71,Vehicle repair,3558.49,0
+125,CUS-0094,Agnes Mumbula,Other,798.0,11300.0,24.0,9,2026-04-14,,,,Rejected,45.0,Vehicle repair,0,0
+126,CUS-0212,Agnes Chilufya,Business Owner,8602.0,22400.0,20.0,9,2026-06-22,2026-06-29,2026-07-03,2027-03-30,Completed,79.17,School fees,25760.0,0
+127,CUS-0110,Thandiwe Nyirenda,Self-Employed,23535.0,3300.0,12.0,9,2025-12-29,,,,Pending,98.88,Equipment purchase,0,0
+128,CUS-0146,Gabriel Kabwe,Self-Employed,5288.0,21500.0,24.0,6,2026-07-03,2026-07-08,2026-07-11,2027-01-07,Disbursed,67.47,Vehicle repair,17877.06,0
+129,CUS-0154,Natasha Mutale,Self-Employed,20344.0,20400.0,18.0,18,2026-04-04,2026-04-06,,,Approved,91.98,School fees,0,0
+130,CUS-0049,Victor Phiri,Other,3138.0,25700.0,18.0,9,2026-01-15,,,,Rejected,45.0,School fees,0,0
+131,CUS-0220,Thandiwe Chanda,Retired,2396.0,9900.0,18.0,36,2023-04-29,2023-05-04,2023-05-08,2026-04-22,Overdue,61.94,Equipment purchase,8048.16,143.96
+132,CUS-0021,Natasha Tembo,Other,2596.0,17400.0,18.0,12,2026-05-04,,,,Pending,46.38,Working capital,0,0
+133,CUS-0179,Lillian Banda,Retired,5869.0,24700.0,18.0,6,2026-07-03,2026-07-04,2026-07-04,2026-12-31,Completed,66.33,Personal development,26923.0,0
+134,CUS-0158,Eunice Kabwe,Retired,1917.0,10200.0,20.0,9,2026-02-19,2026-02-20,,,Approved,57.43,School fees,0,0
+135,CUS-0084,Brian Tembo,Student,306.0,29800.0,10.0,3,2026-02-02,,,,Rejected,45.0,Medical expenses,0,0
+136,CUS-0214,Gabriel Banda,Retired,3163.0,11200.0,18.0,3,2026-02-09,2026-02-12,2026-02-16,2026-05-17,Overdue,71.67,House renovation,5920.73,0
+137,CUS-0141,Chola Kunda,Employed,21652.0,12300.0,18.0,36,2026-07-08,2026-07-10,2026-07-14,2029-06-28,Completed,90.46,Equipment purchase,18942.0,0
+138,CUS-0186,Memory Mumbula,Employed,5400.0,11800.0,18.0,24,2025-10-27,,,,Pending,82.52,Working capital,0,0
+139,CUS-0010,Thandiwe Kunda,Unemployed,4136.0,2400.0,10.0,36,2023-08-02,2023-08-05,2023-08-06,2026-07-21,Overdue,90.36,Vehicle repair,989.26,42.61
+140,CUS-0070,Gabriel Kunda,Business Owner,5170.0,15500.0,15.0,6,2026-02-04,2026-02-05,2026-02-07,2026-08-06,Disbursed,76.02,Emergency needs,1909.7,0
+141,CUS-0105,Caroline Mwelwa,Unemployed,2086.0,21300.0,20.0,18,2026-03-05,,,,Rejected,45.0,Personal development,0,0
+142,CUS-0205,Brian Chanda,Retired,7393.0,13800.0,15.0,3,2025-10-10,,,,Pending,85.07,Equipment purchase,0,0
+143,CUS-0167,Kelvin Mbewe,Self-Employed,22050.0,7700.0,20.0,9,2025-11-10,2025-11-13,2025-11-17,2026-08-14,Completed,97.21,Personal development,8855.0,0
+144,CUS-0011,Lillian Banda,Business Owner,18431.0,30000.0,10.0,3,2025-12-12,,,,Pending,86.98,Equipment purchase,0,0
+145,CUS-0203,Lillian Lungu,Business Owner,5076.0,23900.0,12.0,12,2026-05-06,2026-05-10,2026-05-13,2027-05-08,Disbursed,62.33,Equipment purchase,12941.57,0
+146,CUS-0207,Caroline Mumbula,Business Owner,21136.0,20300.0,12.0,9,2026-01-01,,,,Pending,92.32,House renovation,0,0
+147,CUS-0182,Gabriel Zulu,Employed,4884.0,22400.0,20.0,12,2025-05-29,2025-05-31,2025-06-01,2026-05-27,Overdue,63.31,Equipment purchase,14525.53,247.09
+148,CUS-0002,Mercy Sakala,Other,4057.0,26000.0,24.0,18,2026-01-31,,,,Rejected,48.73,Working capital,0,0
+149,CUS-0012,Joshua Mulenga,Retired,2507.0,28500.0,18.0,6,2026-03-04,,,,Rejected,45.0,Equipment purchase,0,0
+150,CUS-0193,Natasha Kunda,Retired,1261.0,4900.0,24.0,12,2026-01-29,2026-01-31,2026-02-01,2027-01-27,Disbursed,68.91,Vehicle repair,2476.54,0
+151,CUS-0185,Memory Mumbula,Employed,20731.0,5700.0,15.0,3,2026-02-10,2026-02-15,2026-02-17,2026-05-18,Disbursed,97.8,Farm inputs,1708.76,0
+152,CUS-0036,Brian Kabwe,Business Owner,13423.0,16000.0,20.0,18,2025-12-15,2025-12-17,2025-12-17,2027-06-10,Disbursed,90.46,Business expansion,8450.76,0
+153,CUS-0141,Chola Kunda,Employed,21652.0,20700.0,10.0,6,2025-11-24,2025-11-28,2025-12-02,2026-05-31,Overdue,92.35,Business expansion,3382.45,367.05
+154,CUS-0207,Caroline Mumbula,Business Owner,21136.0,16900.0,12.0,18,2026-04-16,,,,Pending,93.6,Vehicle repair,0,0
+155,CUS-0209,Lillian Chilufya,Unemployed,234.0,11500.0,15.0,36,2025-10-20,2025-10-23,,,Approved,40.0,School fees,0,0
+156,CUS-0098,Lillian Musonda,Retired,6369.0,10900.0,18.0,18,2026-05-12,2026-05-13,2026-05-15,2027-11-06,Completed,86.31,Emergency needs,13843.0,0
+157,CUS-0207,Caroline Mumbula,Business Owner,21136.0,18400.0,24.0,36,2025-12-12,2025-12-17,2025-12-17,2028-12-01,Disbursed,88.04,Business expansion,4189.73,0
+158,CUS-0040,Memory Mumba,Student,2479.0,7600.0,10.0,12,2026-06-08,2026-06-14,2026-06-16,2027-06-11,Disbursed,75.47,Personal development,5831.97,0
+159,CUS-0107,Peter Zulu,Retired,6997.0,12500.0,18.0,9,2026-02-25,2026-02-28,2026-03-01,2026-11-26,Disbursed,85.71,School fees,3054.31,0
+160,CUS-0134,Thandiwe Lungu,Self-Employed,8875.0,29200.0,15.0,24,2024-04-30,2024-05-03,2024-05-06,2026-04-26,Overdue,73.68,Personal development,2089.57,717.41
+161,CUS-0037,Victor Musonda,Business Owner,20949.0,14100.0,24.0,3,2025-09-22,2025-09-29,2025-09-30,2025-12-29,Completed,94.62,Emergency needs,14946.0,0
+162,CUS-0142,Memory Chilufya,Retired,6495.0,14100.0,20.0,24,2025-12-11,2025-12-12,,,Approved,82.63,Equipment purchase,0,0
+163,CUS-0049,Victor Phiri,Other,3138.0,27300.0,10.0,12,2025-12-04,,,,Rejected,45.0,Equipment purchase,0,0
+164,CUS-0220,Thandiwe Chanda,Retired,2396.0,1400.0,18.0,24,2026-07-09,2026-07-11,2026-07-13,2028-07-02,Disbursed,95.33,Business expansion,871.52,0
+165,CUS-0071,Gabriel Tembo,Other,4091.0,5500.0,20.0,12,2025-05-02,2025-05-09,2025-05-12,2026-05-07,Overdue,89.24,Personal development,1795.36,96.09
+166,CUS-0193,Natasha Kunda,Retired,1261.0,8400.0,20.0,36,2026-02-11,,,,Rejected,41.71,Equipment purchase,0,0
+167,CUS-0119,Gabriel Mutale,Other,545.0,6000.0,10.0,36,2026-06-09,2026-06-15,,,Approved,40.0,Personal development,0,0
+168,CUS-0039,James Mwelwa,Employed,12140.0,29700.0,24.0,36,2026-06-21,2026-06-25,2026-06-25,2029-06-09,Disbursed,75.43,Business expansion,7072.7,0
+169,CUS-0125,Adrian Mwelwa,Other,1508.0,14000.0,12.0,3,2026-07-07,2026-07-09,,,Approved,45.0,Equipment purchase,0,0
+170,CUS-0019,Lillian Tembo,Student,3780.0,11700.0,10.0,12,2026-05-18,,,,Pending,75.24,Medical expenses,0,0
+171,CUS-0149,Natasha Chilufya,Employed,9057.0,29400.0,24.0,36,2026-06-24,2026-06-29,2026-07-02,2029-06-16,Completed,69.03,Personal development,50568.0,0
+172,CUS-0140,Agnes Mbewe,Unemployed,4506.0,21100.0,15.0,18,2026-01-30,,,,Pending,62.54,Equipment purchase,0,0
+173,CUS-0049,Victor Phiri,Other,3138.0,3100.0,24.0,12,2025-06-21,2025-06-26,2025-06-27,2026-06-22,Overdue,92.1,Medical expenses,804.05,60.8
+174,CUS-0189,Sibamba Zulu,Other,2878.0,5500.0,12.0,36,2025-12-29,2026-01-01,2026-01-04,2028-12-19,Disbursed,79.71,Emergency needs,377.1,0
+175,CUS-0123,Kelvin Ngoma,Self-Employed,4589.0,23400.0,20.0,6,2025-10-23,,,,Pending,59.21,Personal development,0,0
+176,CUS-0008,Ruth Phiri,Retired,6891.0,10700.0,20.0,3,2026-03-26,2026-04-02,2026-04-06,2026-07-05,Disbursed,87.58,Farm inputs,1362.63,0
+177,CUS-0098,Lillian Musonda,Retired,6369.0,22200.0,10.0,36,2026-03-31,2026-04-05,2026-04-06,2029-03-21,Disbursed,67.11,Personal development,3489.48,0
+178,CUS-0209,Lillian Chilufya,Unemployed,234.0,4000.0,10.0,24,2026-05-05,,,,Rejected,45.0,Medical expenses,0,0
+179,CUS-0155,James Mutale,Self-Employed,24524.0,21200.0,12.0,24,2025-12-13,2025-12-14,2025-12-15,2027-12-05,Completed,93.08,Emergency needs,26288.0,0
+180,CUS-0210,Peter Mutale,Other,2293.0,9000.0,20.0,18,2025-11-30,2025-12-01,2025-12-04,2027-05-28,Disbursed,68.6,Equipment purchase,3662.98,0
+181,CUS-0013,Memory Mwelwa,Self-Employed,22651.0,25700.0,15.0,6,2026-04-27,2026-05-01,2026-05-03,2026-10-30,Completed,90.92,Working capital,27627.5,0
+182,CUS-0020,Victor Mulenga,Self-Employed,18502.0,25800.0,10.0,12,2025-10-14,2025-10-16,2025-10-20,2026-10-15,Disbursed,88.84,Vehicle repair,14625.96,0
+183,CUS-0213,Memory Kunda,Business Owner,17647.0,14800.0,24.0,24,2025-10-04,,,,Pending,93.29,Vehicle repair,0,0
+184,CUS-0022,Victor Kabwe,Unemployed,201.0,22100.0,15.0,6,2026-02-08,,,,Pending,45.0,Business expansion,0,0
+185,CUS-0118,Thandiwe Tembo,Business Owner,11433.0,13100.0,20.0,12,2026-02-01,2026-02-05,2026-02-08,2027-02-03,Disbursed,90.83,Emergency needs,5627.55,0
+186,CUS-0006,Eunice Mwelwa,Retired,7752.0,14700.0,20.0,36,2026-02-09,,,,Pending,79.83,School fees,0,0
+187,CUS-0150,Ruth Tembo,Student,269.0,18200.0,20.0,24,2026-04-07,,,,Pending,45.0,House renovation,0,0
+188,CUS-0166,Adrian Chilufya,Other,2831.0,700.0,20.0,3,2026-01-31,,,,Pending,98.02,Emergency needs,0,0
+189,CUS-0133,Adrian Musonda,Student,2965.0,13300.0,24.0,24,2026-06-19,2026-06-22,2026-06-23,2028-06-12,Disbursed,64.11,Emergency needs,4180.1,0
+190,CUS-0029,Grace Chanda,Unemployed,3271.0,6600.0,12.0,6,2026-02-09,,,,Pending,83.86,Equipment purchase,0,0
+191,CUS-0117,Kelvin Ngoma,Business Owner,15658.0,6300.0,18.0,24,2025-12-24,,,,Pending,96.78,Equipment purchase,0,0
+192,CUS-0089,Joshua Mwila,Unemployed,2745.0,9300.0,10.0,12,2026-03-19,2026-03-25,2026-03-29,2027-03-24,Disbursed,72.9,Farm inputs,1686.36,0
+193,CUS-0095,Gabriel Chilufya,Employed,9230.0,21400.0,12.0,9,2025-11-01,2025-11-07,2025-11-09,2026-08-06,Completed,81.45,Equipment purchase,23326.0,0
+194,CUS-0153,Ruth Banda,Student,4530.0,22000.0,10.0,12,2025-11-26,2025-11-30,2025-11-30,2026-11-25,Completed,61.15,School fees,24200.0,0
+195,CUS-0207,Caroline Mumbula,Business Owner,21136.0,15700.0,24.0,9,2026-01-13,2026-01-14,2026-01-18,2026-10-15,Disbursed,94.06,Business expansion,1957.45,0
+196,CUS-0201,Peter Zulu,Employed,14339.0,12100.0,10.0,18,2026-02-25,2026-02-28,2026-03-01,2027-08-23,Completed,93.25,Business expansion,13915.0,0
+197,CUS-0076,Gabriel Nyirenda,Retired,4048.0,28000.0,18.0,9,2025-11-19,,,,Rejected,45.0,House renovation,0,0
+198,CUS-0068,Memory Banda,Unemployed,2767.0,3600.0,24.0,6,2025-10-06,,,,Pending,89.59,Working capital,0,0
+199,CUS-0005,Caroline Mumba,Employed,24146.0,27000.0,12.0,12,2025-12-19,2025-12-21,2025-12-22,2026-12-17,Disbursed,91.05,School fees,21952.26,0
+200,CUS-0078,Sibamba Lungu,Other,1310.0,6100.0,10.0,9,2026-03-27,2026-04-02,2026-04-05,2026-12-31,Disbursed,62.75,House renovation,3759.3,0
+201,CUS-0178,Eunice Musonda,Other,2670.0,20600.0,15.0,24,2026-03-01,,,,Pending,45.0,Medical expenses,0,0
+202,CUS-0120,Lillian Chilufya,Employed,5717.0,17400.0,10.0,12,2025-12-26,,,,Pending,75.65,Emergency needs,0,0
+203,CUS-0096,Natasha Kunda,Retired,2193.0,27400.0,10.0,6,2025-11-25,,,,Rejected,45.0,Business expansion,0,0
+204,CUS-0128,Mercy Nyirenda,Other,19.0,23900.0,20.0,24,2026-04-17,,,,Rejected,45.0,House renovation,0,0
+205,CUS-0050,Lillian Mulenga,Self-Employed,13107.0,26200.0,12.0,24,2025-11-15,2025-11-18,2025-11-18,2027-11-08,Completed,84.01,Personal development,32488.0,0
+206,CUS-0088,Caroline Banda,Employed,17013.0,20800.0,15.0,12,2025-12-13,2025-12-16,2025-12-20,2026-12-15,Disbursed,90.22,Medical expenses,15975.15,0
+207,CUS-0058,Kelvin Zulu,Employed,21302.0,16600.0,18.0,36,2025-10-13,2025-10-20,2025-10-23,2028-10-07,Disbursed,88.77,Vehicle repair,5629.87,0
+208,CUS-0043,Ruth Nyirenda,Self-Employed,4345.0,15300.0,24.0,24,2026-06-24,,,,Rejected,71.83,Equipment purchase,0,0
+209,CUS-0097,Agnes Mulenga,Unemployed,3533.0,2500.0,10.0,18,2025-10-08,2025-10-14,2025-10-14,2027-04-07,Disbursed,94.34,Emergency needs,1116.06,0
+210,CUS-0218,Victor Mumba,Other,4155.0,12800.0,12.0,24,2025-10-07,2025-10-13,,,Approved,75.35,Emergency needs,0,0
+211,CUS-0115,Kelvin Banda,Employed,19867.0,14100.0,12.0,3,2025-11-11,2025-11-13,2025-11-13,2026-02-11,Disbursed,94.32,Medical expenses,6488.56,0
+212,CUS-0181,Caroline Mumbula,Business Owner,15005.0,25800.0,18.0,12,2026-04-27,2026-05-02,2026-05-04,2027-04-29,Disbursed,86.24,Farm inputs,20590.76,0
+213,CUS-0133,Adrian Musonda,Student,2965.0,24200.0,15.0,6,2026-05-01,,,,Pending,45.0,Equipment purchase,0,0
+214,CUS-0041,Natasha Chilufya,Self-Employed,16059.0,13700.0,18.0,12,2025-10-08,2025-10-09,2025-10-09,2026-10-04,Disbursed,93.18,Medical expenses,5666.43,0
+215,CUS-0190,Brian Mumba,Employed,17995.0,11500.0,15.0,9,2026-06-17,2026-06-21,,,Approved,94.89,Personal development,0,0
+216,CUS-0061,Memory Kabwe,Unemployed,3198.0,27300.0,12.0,18,2026-03-16,,,,Pending,45.0,Business expansion,0,0
+217,CUS-0012,Joshua Mulenga,Retired,2507.0,13100.0,20.0,36,2026-06-14,,,,Rejected,53.2,School fees,0,0
+218,CUS-0159,Joshua Banda,Self-Employed,17113.0,19600.0,15.0,6,2025-10-17,2025-10-19,2025-10-23,2026-04-21,Disbursed,90.84,Medical expenses,13063.65,0
+219,CUS-0108,Gabriel Musonda,Employed,15667.0,9400.0,10.0,18,2024-12-07,2024-12-13,2024-12-15,2026-06-08,Overdue,95.2,Equipment purchase,4775.97,0
+220,CUS-0191,Eunice Mbewe,Self-Employed,23417.0,19100.0,12.0,24,2026-06-29,2026-07-01,2026-07-01,2028-06-20,Completed,93.47,Working capital,23684.0,0
+221,CUS-0199,James Mumba,Self-Employed,14808.0,14900.0,15.0,6,2025-09-27,2025-10-01,2025-10-01,2026-03-30,Disbursed,91.95,Emergency needs,7325.92,0
+222,CUS-0164,James Ngoma,Other,3509.0,27700.0,10.0,6,2026-04-29,,,,Rejected,45.0,Farm inputs,0,0
+223,CUS-0103,Victor Zulu,Business Owner,18659.0,29300.0,12.0,9,2025-10-16,2025-10-22,2025-10-26,2026-07-23,Completed,87.44,Working capital,31937.0,0
+224,CUS-0141,Chola Kunda,Employed,21652.0,3300.0,12.0,24,2025-10-24,2025-10-27,2025-10-28,2027-10-18,Disbursed,98.78,Business expansion,508.65,0
+225,CUS-0177,Memory Ngoma,Retired,3069.0,23800.0,15.0,18,2026-05-28,,,,Rejected,45.0,Vehicle repair,0,0
+226,CUS-0039,James Mwelwa,Employed,12140.0,22100.0,10.0,18,2025-11-05,2025-11-10,2025-11-10,2027-05-04,Completed,85.44,Farm inputs,25415.0,0
+227,CUS-0010,Thandiwe Kunda,Unemployed,4136.0,11000.0,20.0,6,2025-09-29,2025-10-03,2025-10-03,2026-04-01,Disbursed,78.72,Working capital,8853.86,0
+228,CUS-0054,Gabriel Chanda,Unemployed,488.0,9500.0,18.0,24,2026-07-26,,,,Pending,45.0,Working capital,0,0
+229,CUS-0056,Victor Nyirenda,Retired,5812.0,16800.0,12.0,18,2026-06-06,2026-06-09,2026-06-09,2027-12-01,Disbursed,76.88,Working capital,13849.32,0
+230,CUS-0169,Ruth Mwelwa,Student,4465.0,10700.0,10.0,6,2026-06-03,,,,Pending,80.83,Vehicle repair,0,0
+231,CUS-0027,Sibamba Mwila,Retired,3937.0,12300.0,12.0,12,2026-03-17,2026-03-20,2026-03-20,2027-03-15,Disbursed,75.01,Farm inputs,1929.83,0
+232,CUS-0071,Gabriel Tembo,Other,4091.0,15800.0,12.0,6,2026-02-28,2026-03-07,2026-03-08,2026-09-04,Disbursed,69.1,School fees,12190.92,0
+233,CUS-0042,Natasha Mbewe,Unemployed,1090.0,20400.0,15.0,6,2025-10-27,,,,Rejected,45.0,Vehicle repair,0,0
+234,CUS-0051,Lillian Mutale,Business Owner,23140.0,8900.0,24.0,3,2026-06-27,2026-06-29,2026-06-29,2026-09-27,Disbursed,96.92,Working capital,3314.92,0
+235,CUS-0076,Gabriel Nyirenda,Retired,4048.0,23600.0,12.0,6,2026-07-04,,,,Pending,53.36,School fees,0,0
+236,CUS-0103,Victor Zulu,Business Owner,18659.0,5100.0,10.0,36,2025-11-10,,,,Pending,92.81,School fees,0,0
+237,CUS-0196,James Phiri,Unemployed,1359.0,28300.0,24.0,3,2026-07-03,,,,Rejected,45.0,Medical expenses,0,0
+238,CUS-0177,Memory Ngoma,Retired,3069.0,1100.0,20.0,18,2026-02-23,,,,Pending,97.13,Medical expenses,0,0
+239,CUS-0186,Memory Mumbula,Employed,5400.0,8600.0,24.0,6,2025-10-16,2025-10-22,2025-10-25,2026-04-23,Disbursed,87.26,Equipment purchase,4169.5,0
+240,CUS-0003,Lillian Sakala,Unemployed,4765.0,20700.0,24.0,6,2026-07-06,2026-07-13,,,Approved,65.25,Emergency needs,0,0
+241,CUS-0006,Eunice Mwelwa,Retired,7752.0,20000.0,15.0,3,2026-03-14,,,,Pending,79.36,House renovation,0,0
+242,CUS-0049,Victor Phiri,Other,3138.0,6900.0,18.0,18,2026-04-09,2026-04-10,,,Approved,82.41,Business expansion,0,0
+243,CUS-0161,Chola Kabwe,Employed,4780.0,28200.0,18.0,6,2025-09-27,,,,Pending,52.8,Working capital,0,0
+244,CUS-0079,Joshua Kunda,Retired,3260.0,20700.0,12.0,9,2025-11-16,2025-11-20,,,Approved,49.2,Personal development,0,0
+245,CUS-0107,Peter Zulu,Retired,6997.0,15200.0,20.0,12,2025-07-07,2025-07-12,2025-07-16,2026-07-11,Overdue,82.62,Vehicle repair,7408.81,216.62
+246,CUS-0095,Gabriel Chilufya,Employed,9230.0,11000.0,20.0,18,2025-10-19,2025-10-24,2025-10-25,2027-04-18,Completed,90.47,School fees,14300.0,0
+247,CUS-0095,Gabriel Chilufya,Employed,9230.0,18600.0,15.0,9,2025-11-04,2025-11-08,2025-11-10,2026-08-07,Completed,83.88,Medical expenses,20692.5,0
+248,CUS-0095,Gabriel Chilufya,Employed,9230.0,2500.0,20.0,6,2026-04-11,2026-04-13,,,Approved,97.83,Farm inputs,0,0
+249,CUS-0175,Joshua Nyirenda,Business Owner,11175.0,24200.0,20.0,3,2025-10-24,2025-10-28,2025-10-30,2026-01-28,Completed,82.68,Working capital,25410.0,0
+250,CUS-0174,Adrian Mwelwa,Unemployed,3181.0,26500.0,10.0,3,2026-05-04,,,,Rejected,45.0,Vehicle repair,0,0
+251,CUS-0170,Lillian Lungu,Student,1579.0,29200.0,12.0,12,2026-04-21,,,,Pending,45.0,Emergency needs,0,0
+252,CUS-0188,Victor Mumba,Unemployed,1733.0,22000.0,10.0,12,2026-01-03,,,,Rejected,45.0,Business expansion,0,0
+253,CUS-0090,Grace Chilufya,Business Owner,18847.0,11300.0,18.0,36,2026-04-26,2026-05-03,2026-05-05,2029-04-19,Completed,90.2,Medical expenses,17402.0,0
+254,CUS-0207,Caroline Mumbula,Business Owner,21136.0,13100.0,10.0,6,2025-12-31,2026-01-07,2026-01-09,2026-07-08,Overdue,95.04,Medical expenses,6981.67,135.47
+255,CUS-0051,Lillian Mutale,Business Owner,23140.0,9500.0,10.0,3,2025-11-29,,,,Pending,96.72,School fees,0,0
+256,CUS-0039,James Mwelwa,Employed,12140.0,600.0,20.0,9,2026-05-24,,,,Pending,99.6,Emergency needs,0,0
+257,CUS-0205,Brian Chanda,Retired,7393.0,14000.0,24.0,24,2024-05-31,2024-06-03,2024-06-06,2026-05-27,Overdue,84.85,School fees,10004.3,214.31
+258,CUS-0206,Joshua Banda,Unemployed,2031.0,22500.0,20.0,12,2026-06-01,,,,Rejected,45.0,Working capital,0,0
+259,CUS-0094,Agnes Mumbula,Other,798.0,2400.0,18.0,18,2026-03-07,2026-03-09,2026-03-09,2027-08-31,Disbursed,75.94,Equipment purchase,293.92,0
+260,CUS-0029,Grace Chanda,Unemployed,3271.0,24200.0,24.0,3,2026-03-02,,,,Pending,45.0,Business expansion,0,0
+261,CUS-0088,Caroline Banda,Employed,17013.0,20800.0,20.0,36,2026-06-07,2026-06-08,2026-06-09,2029-05-24,Completed,85.22,Farm inputs,33280.0,0
+262,CUS-0087,James Nyirenda,Employed,3484.0,18500.0,24.0,24,2025-10-23,,,,Rejected,57.52,House renovation,0,0
+263,CUS-0173,James Kunda,Unemployed,1184.0,21200.0,24.0,24,2025-10-20,,,,Rejected,45.0,Business expansion,0,0
+264,CUS-0080,Memory Chanda,Retired,1587.0,24600.0,20.0,6,2026-04-10,,,,Pending,45.0,Medical expenses,0,0
+265,CUS-0062,Victor Zulu,Employed,24654.0,21400.0,18.0,12,2026-06-08,2026-06-12,2026-06-13,2027-06-08,Completed,93.06,House renovation,25252.0,0
+266,CUS-0095,Gabriel Chilufya,Employed,9230.0,17700.0,24.0,36,2026-05-20,2026-05-25,2026-05-27,2029-05-11,Disbursed,79.66,Personal development,9348.97,0
+267,CUS-0188,Victor Mumba,Unemployed,1733.0,12400.0,10.0,12,2026-05-12,,,,Rejected,45.0,Emergency needs,0,0
+268,CUS-0094,Agnes Mumbula,Other,798.0,23600.0,10.0,6,2026-07-16,,,,Rejected,45.0,Personal development,0,0
+269,CUS-0054,Gabriel Chanda,Unemployed,488.0,18600.0,12.0,3,2025-09-25,,,,Rejected,45.0,Farm inputs,0,0
+270,CUS-0220,Thandiwe Chanda,Retired,2396.0,500.0,18.0,24,2026-05-21,2026-05-23,2026-05-24,2028-05-13,Disbursed,98.33,House renovation,208.57,0
+271,CUS-0132,Kelvin Sakala,Retired,4504.0,21100.0,24.0,18,2025-10-11,2025-10-15,2025-10-16,2027-04-09,Completed,62.52,Farm inputs,28696.0,0
+272,CUS-0053,Peter Tembo,Self-Employed,9727.0,3500.0,20.0,36,2026-01-27,2026-01-29,2026-02-01,2029-01-16,Completed,92.12,Personal development,5600.0,0
+273,CUS-0005,Caroline Mumba,Employed,24146.0,14700.0,10.0,12,2026-04-15,2026-04-20,2026-04-23,2027-04-18,Completed,95.13,Vehicle repair,16170.0,0
+274,CUS-0009,Brian Phiri,Student,3065.0,4800.0,20.0,18,2026-01-02,,,,Pending,87.47,Working capital,0,0
+275,CUS-0171,Natasha Mwelwa,Employed,18197.0,16900.0,24.0,18,2026-05-02,,,,Pending,92.57,Business expansion,0,0
+276,CUS-0085,Mercy Chanda,Other,1679.0,18900.0,24.0,6,2026-07-14,2026-07-16,,,Approved,45.0,School fees,0,0
+277,CUS-0172,Joshua Sakala,Business Owner,13164.0,20900.0,15.0,18,2026-04-13,,,,Rejected,87.3,Personal development,0,0
+278,CUS-0203,Lillian Lungu,Business Owner,5076.0,3200.0,20.0,24,2026-03-20,,,,Pending,94.96,Emergency needs,0,0
+279,CUS-0077,Victor Mutale,Student,2254.0,2900.0,15.0,18,2025-11-06,,,,Pending,89.71,Medical expenses,0,0
+280,CUS-0071,Gabriel Tembo,Other,4091.0,5400.0,10.0,9,2025-08-28,2025-08-29,2025-09-02,2026-05-30,Overdue,89.44,Personal development,2638.18,63.34
+281,CUS-0196,James Phiri,Unemployed,1359.0,6400.0,10.0,24,2024-07-24,2024-07-26,2024-07-27,2026-07-17,Overdue,62.33,Business expansion,2018.82,113.22
+282,CUS-0089,Joshua Mwila,Unemployed,2745.0,22400.0,20.0,12,2026-02-19,,,,Pending,45.0,Medical expenses,0,0
+283,CUS-0207,Caroline Mumbula,Business Owner,21136.0,13500.0,12.0,12,2025-05-27,2025-06-03,2025-06-05,2026-05-31,Overdue,94.89,House renovation,4999.67,202.41
+284,CUS-0036,Brian Kabwe,Business Owner,13423.0,18900.0,20.0,36,2026-03-19,2026-03-25,,,Approved,83.74,Farm inputs,0,0
+285,CUS-0091,Brian Mbewe,Business Owner,5309.0,4600.0,24.0,9,2025-12-12,2025-12-14,2025-12-15,2026-09-11,Disbursed,93.07,Personal development,3858.73,0
+286,CUS-0090,Grace Chilufya,Business Owner,18847.0,26700.0,20.0,3,2025-11-23,2025-11-30,2025-12-02,2026-03-02,Disbursed,88.67,Vehicle repair,20680.34,0
+287,CUS-0179,Lillian Banda,Retired,5869.0,4300.0,10.0,6,2026-02-21,2026-02-26,2026-03-01,2026-08-28,Disbursed,94.14,Vehicle repair,3363.47,0
+288,CUS-0009,Brian Phiri,Student,3065.0,24900.0,15.0,18,2026-05-30,,,,Rejected,45.0,Business expansion,0,0
+289,CUS-0144,Brian Chilufya,Business Owner,5832.0,6800.0,20.0,36,2023-06-15,2023-06-20,2023-06-24,2026-06-08,Overdue,85.67,Farm inputs,3634.1,144.92
+290,CUS-0031,Brian Chilufya,Other,4320.0,14300.0,12.0,12,2025-12-16,2025-12-19,,,Approved,73.52,Farm inputs,0,0
+291,CUS-0082,Victor Banda,Unemployed,2052.0,5400.0,20.0,9,2026-05-10,,,,Pending,78.95,Equipment purchase,0,0
+292,CUS-0191,Eunice Mbewe,Self-Employed,23417.0,6900.0,15.0,24,2025-09-30,2025-10-03,2025-10-07,2027-09-27,Completed,97.64,Working capital,8970.0,0
+293,CUS-0102,Ruth Ngoma,Retired,3341.0,2600.0,20.0,36,2026-05-05,,,,Pending,88.77,House renovation,0,0
+294,CUS-0031,Brian Chilufya,Other,4320.0,8500.0,10.0,24,2025-09-25,2025-09-28,2025-10-02,2027-09-22,Completed,84.26,Working capital,10200.0,0
+295,CUS-0071,Gabriel Tembo,Other,4091.0,12100.0,15.0,18,2026-05-15,2026-05-18,,,Approved,76.34,Emergency needs,0,0
+296,CUS-0197,James Ngoma,Self-Employed,11716.0,8900.0,24.0,36,2026-07-18,2026-07-23,2026-07-24,2029-07-08,Disbursed,88.92,Emergency needs,11350.09,0
+297,CUS-0107,Peter Zulu,Retired,6997.0,26000.0,20.0,3,2025-09-13,2025-09-16,2025-09-17,2025-12-16,Completed,70.27,House renovation,27300.0,0
+298,CUS-0216,Caroline Chanda,Student,3248.0,19200.0,18.0,18,2026-03-01,,,,Rejected,52.71,Personal development,0,0
+299,CUS-0034,Sibamba Mwila,Other,4269.0,4300.0,24.0,24,2026-05-05,,,,Pending,91.94,Equipment purchase,0,0
+300,CUS-0059,James Zulu,Other,190.0,18400.0,10.0,12,2026-06-16,,,,Rejected,45.0,Emergency needs,0,0
+301,CUS-0094,Agnes Mumbula,Other,798.0,11200.0,20.0,3,2026-05-19,2026-05-21,,,Approved,45.0,Emergency needs,0,0
+302,CUS-0116,James Phiri,Retired,7262.0,16700.0,12.0,24,2025-12-06,2025-12-09,2025-12-13,2027-12-03,Completed,81.6,Farm inputs,20708.0,0
+303,CUS-0037,Victor Musonda,Business Owner,20949.0,8700.0,10.0,9,2026-06-12,2026-06-19,2026-06-20,2027-03-17,Disbursed,96.68,Vehicle repair,2530.47,0
+304,CUS-0052,Thandiwe Mumbula,Other,4896.0,11500.0,10.0,36,2023-07-22,2023-07-29,2023-08-02,2026-07-17,Overdue,76.21,Medical expenses,2059.63,257.81
+305,CUS-0102,Ruth Ngoma,Retired,3341.0,16500.0,15.0,6,2025-10-21,2025-10-22,2025-10-24,2026-04-22,Disbursed,60.49,Medical expenses,4762.59,0
+306,CUS-0158,Eunice Kabwe,Retired,1917.0,29000.0,15.0,12,2026-02-24,,,,Rejected,45.0,Personal development,0,0
+307,CUS-0071,Gabriel Tembo,Other,4091.0,21600.0,24.0,3,2025-09-27,,,,Rejected,57.76,Vehicle repair,0,0
+308,CUS-0035,Kelvin Zulu,Self-Employed,11805.0,20400.0,15.0,12,2025-10-22,2025-10-26,2025-10-27,2026-10-22,Disbursed,86.18,School fees,7832.17,0
+309,CUS-0127,Thandiwe Musonda,Self-Employed,10090.0,2800.0,18.0,24,2025-11-03,2025-11-06,,,Approved,97.78,School fees,0,0
+310,CUS-0180,Natasha Mumba,Other,2765.0,9100.0,18.0,9,2026-02-08,2026-02-10,2026-02-10,2026-11-07,Completed,73.67,Farm inputs,10328.5,0
+311,CUS-0034,Sibamba Mwila,Other,4269.0,16500.0,24.0,9,2026-07-21,2026-07-22,2026-07-23,2027-04-19,Disbursed,69.08,Medical expenses,4422.59,0
+312,CUS-0018,Adrian Mwila,Self-Employed,22455.0,5800.0,10.0,36,2025-11-16,,,,Pending,92.93,Farm inputs,0,0
+313,CUS-0216,Caroline Chanda,Student,3248.0,12100.0,10.0,9,2026-05-19,2026-05-26,2026-05-27,2027-02-21,Completed,70.2,Farm inputs,13007.5,0
+314,CUS-0117,Kelvin Ngoma,Business Owner,15658.0,12400.0,24.0,36,2026-02-08,2026-02-12,,,Approved,88.66,Equipment purchase,0,0
+315,CUS-0047,Ruth Musonda,Other,2719.0,29500.0,15.0,12,2025-10-20,2025-10-25,,,Approved,45.0,School fees,0,0
+316,CUS-0089,Joshua Mwila,Unemployed,2745.0,2400.0,20.0,12,2026-07-24,2026-07-25,2026-07-26,2027-07-21,Disbursed,93.01,Medical expenses,200.11,0
+317,CUS-0177,Memory Ngoma,Retired,3069.0,22800.0,15.0,3,2026-05-24,,,,Rejected,45.0,School fees,0,0
+318,CUS-0069,James Mwelwa,Self-Employed,3266.0,27100.0,20.0,24,2026-05-02,,,,Rejected,45.0,Vehicle repair,0,0
+319,CUS-0094,Agnes Mumbula,Other,798.0,26000.0,12.0,3,2026-07-18,,,,Rejected,45.0,Personal development,0,0
+320,CUS-0109,Joshua Mwila,Student,4898.0,26000.0,15.0,12,2026-04-23,,,,Rejected,57.53,Business expansion,0,0
+321,CUS-0091,Brian Mbewe,Business Owner,5309.0,26500.0,15.0,36,2025-11-04,,,,Rejected,55.07,Business expansion,0,0
+322,CUS-0177,Memory Ngoma,Retired,3069.0,10000.0,10.0,3,2025-10-27,2025-10-28,2025-10-31,2026-01-29,Disbursed,73.93,Medical expenses,1899.34,0
+323,CUS-0215,Chola Phiri,Student,4384.0,21600.0,24.0,24,2026-06-21,,,,Rejected,60.58,Business expansion,0,0
+324,CUS-0186,Memory Mumbula,Employed,5400.0,18000.0,12.0,6,2026-01-04,2026-01-07,2026-01-11,2026-07-10,Overdue,73.33,Medical expenses,9012.55,201.35
+325,CUS-0004,Caroline Mumba,Retired,2489.0,16400.0,18.0,12,2025-09-21,,,,Rejected,47.29,Equipment purchase,0,0
+326,CUS-0096,Natasha Kunda,Retired,2193.0,21900.0,12.0,12,2026-07-22,,,,Rejected,45.0,Farm inputs,0,0
+327,CUS-0120,Lillian Chilufya,Employed,5717.0,13900.0,10.0,6,2026-06-07,2026-06-11,2026-06-12,2026-12-09,Completed,80.55,Medical expenses,14595.0,0
+328,CUS-0168,Joshua Zulu,Other,1524.0,25800.0,18.0,3,2026-07-05,,,,Pending,45.0,Vehicle repair,0,0
+329,CUS-0080,Memory Chanda,Retired,1587.0,4700.0,18.0,24,2026-05-18,,,,Pending,76.31,Working capital,0,0
+330,CUS-0220,Thandiwe Chanda,Retired,2396.0,14500.0,15.0,18,2026-06-15,2026-06-19,,,Approved,51.59,Medical expenses,0,0
+331,CUS-0141,Chola Kunda,Employed,21652.0,15600.0,24.0,24,2026-03-25,2026-03-28,,,Approved,94.24,Business expansion,0,0
+332,CUS-0138,Agnes Mbewe,Other,1877.0,21500.0,15.0,3,2026-07-19,,,,Pending,45.0,Business expansion,0,0
+333,CUS-0085,Mercy Chanda,Other,1679.0,18700.0,15.0,9,2026-02-14,,,,Rejected,45.0,Vehicle repair,0,0
+334,CUS-0130,Agnes Sakala,Unemployed,4220.0,2200.0,20.0,18,2025-11-19,2025-11-20,2025-11-21,2027-05-15,Disbursed,95.83,Equipment purchase,1039.7,0
+335,CUS-0092,Natasha Chilufya,Self-Employed,19864.0,2200.0,12.0,36,2023-06-05,2023-06-12,2023-06-13,2026-05-28,Overdue,94.11,Medical expenses,1434.1,31.16
+336,CUS-0204,Sibamba Kunda,Retired,1993.0,22800.0,10.0,24,2025-09-24,,,,Rejected,45.0,Equipment purchase,0,0
+337,CUS-0159,Joshua Banda,Self-Employed,17113.0,5300.0,12.0,3,2026-02-02,,,,Pending,97.52,Emergency needs,0,0
+338,CUS-0107,Peter Zulu,Retired,6997.0,20800.0,24.0,24,2026-02-24,,,,Pending,76.22,Personal development,0,0
+339,CUS-0013,Memory Mwelwa,Self-Employed,22651.0,21200.0,10.0,3,2026-06-19,2026-06-22,2026-06-24,2026-09-22,Disbursed,92.51,Working capital,14613.14,0
+340,CUS-0195,Mercy Mwila,Self-Employed,16645.0,3600.0,24.0,36,2026-04-06,2026-04-08,2026-04-11,2029-03-26,Disbursed,93.27,Personal development,4320.43,0
+341,CUS-0190,Brian Mumba,Employed,17995.0,6500.0,12.0,9,2026-01-12,2026-01-15,2026-01-16,2026-10-13,Completed,97.11,Equipment purchase,7085.0,0
+342,CUS-0029,Grace Chanda,Unemployed,3271.0,29300.0,20.0,24,2026-01-08,2026-01-10,,,Approved,45.0,School fees,0,0
+343,CUS-0017,Kelvin Lungu,Student,151.0,9600.0,10.0,24,2025-12-05,,,,Rejected,45.0,School fees,0,0
+344,CUS-0128,Mercy Nyirenda,Other,19.0,24700.0,12.0,36,2026-01-06,,,,Rejected,40.0,Emergency needs,0,0
+345,CUS-0210,Peter Mutale,Other,2293.0,13600.0,15.0,36,2025-11-09,,,,Pending,47.55,House renovation,0,0
+346,CUS-0107,Peter Zulu,Retired,6997.0,10100.0,24.0,12,2026-07-25,,,,Pending,88.45,Medical expenses,0,0
+347,CUS-0135,Memory Kabwe,Student,4566.0,11200.0,10.0,6,2026-02-20,,,,Pending,80.38,Business expansion,0,0
+348,CUS-0192,Victor Chanda,Self-Employed,5411.0,21600.0,18.0,9,2025-11-01,2025-11-03,2025-11-04,2026-08-01,Completed,68.07,Medical expenses,24516.0,0
+349,CUS-0219,Thandiwe Kunda,Self-Employed,5058.0,25000.0,15.0,9,2026-03-15,2026-03-18,2026-03-22,2026-12-17,Disbursed,60.46,Emergency needs,10318.5,0
+350,CUS-0039,James Mwelwa,Employed,12140.0,18000.0,18.0,3,2025-09-18,2025-09-19,2025-09-21,2025-12-20,Completed,88.14,Medical expenses,18810.0,0
+351,CUS-0103,Victor Zulu,Business Owner,18659.0,1200.0,10.0,36,2023-07-16,2023-07-23,2023-07-26,2026-07-10,Overdue,94.49,Farm inputs,207.67,0
+352,CUS-0169,Ruth Mwelwa,Student,4465.0,27800.0,24.0,9,2025-10-05,,,,Rejected,50.19,School fees,0,0
+353,CUS-0161,Chola Kabwe,Employed,4780.0,14800.0,15.0,6,2025-12-02,2025-12-09,2025-12-12,2026-06-10,Disbursed,75.23,Vehicle repair,7939.51,0
+354,CUS-0151,Lillian Mbewe,Self-Employed,10878.0,1500.0,20.0,3,2026-02-07,2026-02-08,2026-02-11,2026-05-12,Disbursed,98.9,House renovation,572.37,0
+355,CUS-0171,Natasha Mwelwa,Employed,18197.0,9800.0,20.0,36,2023-05-18,2023-05-25,2023-05-28,2026-05-12,Overdue,90.69,Vehicle repair,5277.27,208.05
+356,CUS-0068,Memory Banda,Unemployed,2767.0,27900.0,12.0,9,2025-10-27,,,,Pending,45.0,Medical expenses,0,0
+357,CUS-0198,Ruth Banda,Business Owner,11901.0,15200.0,18.0,6,2026-03-23,2026-03-30,2026-03-30,2026-09-26,Disbursed,89.78,House renovation,1717.54,0
+358,CUS-0180,Natasha Mumba,Other,2765.0,21000.0,10.0,36,2026-01-20,,,,Rejected,40.0,Equipment purchase,0,0
+359,CUS-0010,Thandiwe Kunda,Unemployed,4136.0,12900.0,24.0,3,2025-12-08,2025-12-10,2025-12-12,2026-03-12,Disbursed,75.05,Equipment purchase,7687.54,0
+360,CUS-0031,Brian Chilufya,Other,4320.0,10200.0,15.0,3,2026-04-24,2026-04-28,2026-04-29,2026-07-28,Overdue,81.11,Personal development,4782.6,116.0
+361,CUS-0003,Lillian Sakala,Unemployed,4765.0,5600.0,20.0,6,2026-02-25,2026-02-28,2026-03-03,2026-08-30,Disbursed,90.6,Equipment purchase,990.18,0
+362,CUS-0179,Lillian Banda,Retired,5869.0,27600.0,12.0,18,2024-11-19,2024-11-24,2024-11-25,2026-05-19,Overdue,62.38,Emergency needs,9065.65,470.05
+363,CUS-0050,Lillian Mulenga,Self-Employed,13107.0,15900.0,15.0,24,2026-01-04,2026-01-11,2026-01-13,2028-01-03,Completed,90.3,Working capital,20670.0,0
+364,CUS-0187,Agnes Sakala,Unemployed,4539.0,29800.0,20.0,6,2026-04-30,,,,Rejected,47.48,House renovation,0,0
+365,CUS-0115,Kelvin Banda,Employed,19867.0,18600.0,10.0,18,2026-01-20,2026-01-26,2026-01-28,2027-07-22,Disbursed,92.51,Emergency needs,14372.47,0
+366,CUS-0066,Brian Mwelwa,Retired,7336.0,16500.0,10.0,9,2026-02-16,2026-02-23,2026-02-24,2026-11-21,Completed,82.01,Equipment purchase,17737.5,0
+367,CUS-0096,Natasha Kunda,Retired,2193.0,14900.0,12.0,36,2026-07-01,,,,Rejected,40.65,House renovation,0,0
+368,CUS-0071,Gabriel Tembo,Other,4091.0,14600.0,20.0,12,2026-03-11,,,,Pending,71.45,Working capital,0,0
+369,CUS-0137,Agnes Chilufya,Unemployed,4556.0,13500.0,15.0,6,2026-01-01,2026-01-04,2026-01-04,2026-07-03,Disbursed,76.29,Equipment purchase,4392.85,0
+370,CUS-0204,Sibamba Kunda,Retired,1993.0,20900.0,18.0,18,2026-03-12,,,,Pending,45.0,School fees,0,0
+371,CUS-0212,Agnes Chilufya,Business Owner,8602.0,17800.0,24.0,12,2026-04-06,2026-04-07,,,Approved,83.45,House renovation,0,0
+372,CUS-0104,Eunice Nyirenda,Student,1091.0,23800.0,24.0,18,2026-06-07,,,,Rejected,45.0,Personal development,0,0
+373,CUS-0105,Caroline Mwelwa,Unemployed,2086.0,19200.0,12.0,24,2025-11-29,2025-12-04,,,Approved,45.0,Farm inputs,0,0
+374,CUS-0058,Kelvin Zulu,Employed,21302.0,10100.0,24.0,12,2026-01-17,2026-01-18,,,Approved,96.21,Personal development,0,0
+375,CUS-0005,Caroline Mumba,Employed,24146.0,26000.0,20.0,24,2026-02-04,2026-02-09,2026-02-11,2028-02-01,Disbursed,91.39,House renovation,5640.97,0
+376,CUS-0209,Lillian Chilufya,Unemployed,234.0,18600.0,24.0,6,2026-01-09,,,,Pending,45.0,Emergency needs,0,0
+377,CUS-0179,Lillian Banda,Retired,5869.0,9600.0,10.0,24,2025-09-20,2025-09-24,2025-09-24,2027-09-14,Disbursed,86.91,Vehicle repair,4408.89,0
+378,CUS-0058,Kelvin Zulu,Employed,21302.0,27300.0,15.0,12,2025-09-29,2025-10-06,2025-10-09,2026-10-04,Disbursed,89.75,Business expansion,18499.77,0
+379,CUS-0045,Agnes Mwila,Other,1529.0,5400.0,12.0,12,2026-02-08,2026-02-11,2026-02-15,2027-02-10,Completed,71.75,Emergency needs,6048.0,0
+380,CUS-0163,Chola Mulenga,Business Owner,8388.0,6600.0,20.0,9,2026-07-07,2026-07-12,2026-07-15,2027-04-11,Completed,93.71,Vehicle repair,7590.0,0
+381,CUS-0209,Lillian Chilufya,Unemployed,234.0,7200.0,10.0,24,2025-12-23,,,,Pending,45.0,Equipment purchase,0,0
+382,CUS-0034,Sibamba Mwila,Other,4269.0,25700.0,20.0,3,2026-03-21,,,,Pending,51.84,Equipment purchase,0,0
+383,CUS-0023,Caroline Mutale,Business Owner,11774.0,20200.0,18.0,24,2026-03-24,2026-03-31,2026-04-03,2028-03-23,Completed,86.27,Emergency needs,27472.0,0
+384,CUS-0101,Lillian Banda,Self-Employed,14960.0,10500.0,18.0,36,2026-04-26,2026-05-02,2026-05-06,2029-04-20,Disbursed,89.39,Equipment purchase,5426.52,0
+385,CUS-0029,Grace Chanda,Unemployed,3271.0,8200.0,12.0,3,2025-12-18,2025-12-23,,,Approved,79.94,Business expansion,0,0
+386,CUS-0140,Agnes Mbewe,Unemployed,4506.0,12200.0,18.0,24,2024-08-08,2024-08-15,2024-08-17,2026-08-07,Overdue,78.34,Personal development,2557.42,0
+387,CUS-0061,Memory Kabwe,Unemployed,3198.0,18700.0,18.0,24,2026-01-28,,,,Pending,53.22,House renovation,0,0
+388,CUS-0016,Grace Kabwe,Retired,5590.0,25800.0,15.0,6,2025-12-04,2025-12-07,2025-12-11,2026-06-09,Overdue,63.08,Vehicle repair,602.48,542.65
+389,CUS-0166,Adrian Chilufya,Other,2831.0,10300.0,10.0,12,2026-06-16,2026-06-23,,,Approved,70.89,Vehicle repair,0,0
+390,CUS-0157,Victor Nyirenda,Business Owner,3889.0,14800.0,20.0,24,2025-12-17,2025-12-22,2025-12-25,2027-12-15,Completed,69.56,School fees,20720.0,0
+391,CUS-0172,Joshua Sakala,Business Owner,13164.0,29800.0,15.0,6,2025-09-28,,,,Rejected,81.89,School fees,0,0
+392,CUS-0199,James Mumba,Self-Employed,14808.0,6100.0,24.0,18,2025-12-04,2025-12-09,2025-12-09,2027-06-02,Disbursed,96.7,Farm inputs,3770.03,0
+393,CUS-0089,Joshua Mwila,Unemployed,2745.0,10100.0,10.0,9,2026-03-25,2026-03-31,2026-04-01,2026-12-27,Disbursed,70.56,School fees,4497.56,0
+394,CUS-0066,Brian Mwelwa,Retired,7336.0,10400.0,12.0,12,2026-06-06,2026-06-11,2026-06-14,2027-06-09,Disbursed,88.66,Personal development,4408.1,0
+395,CUS-0045,Agnes Mwila,Other,1529.0,16000.0,20.0,6,2025-11-06,,,,Pending,45.0,Business expansion,0,0
+396,CUS-0175,Joshua Nyirenda,Business Owner,11175.0,23200.0,12.0,3,2025-11-20,,,,Pending,83.39,Working capital,0,0
+397,CUS-0152,Brian Chilufya,Student,1728.0,25200.0,24.0,12,2026-03-18,,,,Pending,45.0,Equipment purchase,0,0
+398,CUS-0151,Lillian Mbewe,Self-Employed,10878.0,17500.0,20.0,18,2026-04-13,2026-04-14,2026-04-15,2027-10-07,Completed,87.13,Medical expenses,22750.0,0
+399,CUS-0189,Sibamba Zulu,Other,2878.0,14600.0,12.0,18,2026-06-29,,,,Rejected,59.42,Working capital,0,0
+400,CUS-0210,Peter Mutale,Other,2293.0,21700.0,12.0,24,2026-05-08,,,,Pending,45.0,Vehicle repair,0,0
+401,CUS-0114,Gabriel Mumbula,Employed,19085.0,11200.0,15.0,18,2024-10-22,2024-10-25,2024-10-26,2026-04-19,Overdue,95.31,Vehicle repair,3090.18,212.6
+402,CUS-0100,Agnes Mutale,Retired,5834.0,800.0,24.0,6,2026-03-17,2026-03-24,2026-03-24,2026-09-20,Completed,98.9,Business expansion,896.0,0
+403,CUS-0061,Memory Kabwe,Unemployed,3198.0,25200.0,15.0,36,2025-11-11,,,,Rejected,40.0,Working capital,0,0
+404,CUS-0064,Eunice Chanda,Retired,5309.0,1900.0,15.0,6,2025-09-12,2025-09-13,2025-09-14,2026-03-13,Completed,97.14,Farm inputs,2042.5,0
+405,CUS-0112,Eunice Zulu,Other,1048.0,10200.0,20.0,12,2026-04-17,,,,Rejected,45.0,School fees,0,0
+406,CUS-0198,Ruth Banda,Business Owner,11901.0,4100.0,24.0,12,2026-06-16,,,,Pending,97.24,Business expansion,0,0
+407,CUS-0191,Eunice Mbewe,Self-Employed,23417.0,25500.0,12.0,9,2025-08-09,2025-08-13,2025-08-17,2026-05-14,Overdue,91.29,Working capital,4035.46,475.19
+408,CUS-0067,Adrian Kabwe,Employed,17513.0,28300.0,20.0,3,2025-12-30,2026-01-06,2026-01-07,2026-04-07,Disbursed,87.07,School fees,11816.37,0
+409,CUS-0174,Adrian Mwelwa,Unemployed,3181.0,26500.0,24.0,24,2026-01-08,,,,Pending,45.0,School fees,0,0
+410,CUS-0057,Thandiwe Musonda,Unemployed,1379.0,6500.0,12.0,36,2026-03-13,,,,Rejected,57.29,Working capital,0,0
+411,CUS-0016,Grace Kabwe,Retired,5590.0,26400.0,10.0,24,2026-02-04,2026-02-07,2026-02-07,2028-01-28,Disbursed,62.22,Working capital,1986.48,0
+412,CUS-0135,Memory Kabwe,Student,4566.0,17100.0,10.0,36,2025-10-10,,,,Pending,65.04,Business expansion,0,0
+413,CUS-0020,Victor Mulenga,Self-Employed,18502.0,21900.0,18.0,9,2025-12-18,,,,Pending,90.53,House renovation,0,0
+414,CUS-0011,Lillian Banda,Business Owner,18431.0,23500.0,20.0,24,2024-06-11,2024-06-13,2024-06-15,2026-06-05,Overdue,89.8,Working capital,7421.74,0
+415,CUS-0050,Lillian Mulenga,Self-Employed,13107.0,5500.0,20.0,12,2026-01-10,2026-01-17,2026-01-19,2027-01-14,Completed,96.64,Farm inputs,6600.0,0
+416,CUS-0105,Caroline Mwelwa,Unemployed,2086.0,12400.0,12.0,36,2026-05-01,,,,Rejected,47.44,House renovation,0,0
+417,CUS-0089,Joshua Mwila,Unemployed,2745.0,20800.0,20.0,9,2025-09-29,,,,Pending,45.0,Farm inputs,0,0
+418,CUS-0179,Lillian Banda,Retired,5869.0,23000.0,15.0,36,2026-07-04,2026-07-08,2026-07-09,2029-06-23,Disbursed,63.65,Farm inputs,21560.94,0
+419,CUS-0203,Lillian Lungu,Business Owner,5076.0,29700.0,10.0,3,2025-09-14,,,,Pending,53.19,House renovation,0,0
+420,CUS-0069,James Mwelwa,Self-Employed,3266.0,4700.0,24.0,6,2025-09-11,2025-09-18,,,Approved,88.49,Equipment purchase,0,0
+421,CUS-0186,Memory Mumbula,Employed,5400.0,16400.0,10.0,24,2026-07-04,,,,Pending,75.7,School fees,0,0
+422,CUS-0069,James Mwelwa,Self-Employed,3266.0,7900.0,20.0,18,2026-06-14,2026-06-17,2026-06-19,2027-12-11,Completed,80.65,Equipment purchase,10270.0,0
+423,CUS-0082,Victor Banda,Unemployed,2052.0,23200.0,10.0,36,2026-03-03,2026-03-09,,,Approved,40.0,School fees,0,0
+424,CUS-0201,Peter Zulu,Employed,14339.0,3500.0,12.0,18,2026-06-03,,,,Pending,98.05,Medical expenses,0,0
+425,CUS-0182,Gabriel Zulu,Employed,4884.0,24800.0,10.0,18,2025-12-13,2025-12-16,,,Approved,59.38,Medical expenses,0,0
+426,CUS-0138,Agnes Mbewe,Other,1877.0,11700.0,18.0,9,2025-10-18,,,,Rejected,50.13,Medical expenses,0,0
+427,CUS-0152,Brian Chilufya,Student,1728.0,6800.0,12.0,36,2026-05-05,2026-05-12,2026-05-13,2029-04-27,Disbursed,63.52,Medical expenses,3074.29,0
+428,CUS-0067,Adrian Kabwe,Employed,17513.0,29500.0,15.0,3,2026-04-20,2026-04-25,2026-04-25,2026-07-24,Completed,86.52,Equipment purchase,30606.25,0
+429,CUS-0079,Joshua Kunda,Retired,3260.0,19600.0,10.0,6,2026-03-16,,,,Rejected,51.9,Personal development,0,0
+430,CUS-0112,Eunice Zulu,Other,1048.0,25000.0,20.0,3,2026-07-19,,,,Rejected,45.0,Equipment purchase,0,0
+431,CUS-0152,Brian Chilufya,Student,1728.0,10200.0,12.0,24,2026-02-02,,,,Rejected,52.78,Personal development,0,0
+432,CUS-0153,Ruth Banda,Student,4530.0,15000.0,20.0,18,2025-11-30,2025-12-01,2025-12-02,2027-05-26,Disbursed,73.51,Business expansion,12050.48,0
+433,CUS-0072,James Lungu,Unemployed,4133.0,14100.0,18.0,9,2025-10-31,2025-11-04,2025-11-07,2026-08-04,Completed,72.71,School fees,16003.5,0
+434,CUS-0062,Victor Zulu,Employed,24654.0,13500.0,18.0,24,2026-01-22,,,,Pending,95.62,Medical expenses,0,0
+435,CUS-0094,Agnes Mumbula,Other,798.0,18200.0,10.0,9,2026-04-03,,,,Rejected,45.0,Personal development,0,0
+436,CUS-0100,Agnes Mutale,Retired,5834.0,18700.0,12.0,9,2026-03-28,2026-03-31,2026-03-31,2026-12-26,Disbursed,74.36,Vehicle repair,3686.69,0
+437,CUS-0029,Grace Chanda,Unemployed,3271.0,600.0,24.0,6,2025-12-05,2025-12-07,2025-12-08,2026-06-06,Overdue,98.53,School fees,266.23,8.12
+438,CUS-0176,Mercy Ngoma,Unemployed,2095.0,2300.0,18.0,6,2025-11-28,2025-12-04,2025-12-05,2026-06-03,Overdue,91.22,Vehicle repair,1121.2,27.72
+439,CUS-0155,James Mutale,Self-Employed,24524.0,24300.0,18.0,12,2025-12-14,,,,Pending,92.07,Equipment purchase,0,0
+440,CUS-0132,Kelvin Sakala,Retired,4504.0,5500.0,15.0,36,2026-01-29,,,,Pending,85.23,School fees,0,0
+441,CUS-0075,Victor Musonda,Other,1204.0,22400.0,18.0,9,2026-05-29,,,,Rejected,45.0,Vehicle repair,0,0
+442,CUS-0202,Adrian Mumbula,Other,2986.0,11000.0,20.0,36,2026-02-14,2026-02-15,2026-02-19,2029-02-03,Disbursed,65.53,House renovation,3613.11,0
+443,CUS-0183,Caroline Chilufya,Student,315.0,22200.0,10.0,9,2026-07-02,,,,Rejected,45.0,Emergency needs,0,0
+444,CUS-0206,Joshua Banda,Unemployed,2031.0,19900.0,24.0,12,2025-09-21,,,,Rejected,45.0,Personal development,0,0
+445,CUS-0075,Victor Musonda,Other,1204.0,10100.0,10.0,6,2025-11-10,,,,Rejected,45.0,House renovation,0,0
+446,CUS-0098,Lillian Musonda,Retired,6369.0,12400.0,15.0,3,2026-01-30,2026-02-06,,,Approved,84.42,Farm inputs,0,0
+447,CUS-0015,Ruth Musonda,Self-Employed,4396.0,800.0,10.0,6,2025-11-06,,,,Pending,98.54,Equipment purchase,0,0
+448,CUS-0038,Eunice Mwelwa,Other,3526.0,19700.0,15.0,24,2025-10-13,,,,Rejected,55.3,House renovation,0,0
+449,CUS-0171,Natasha Mwelwa,Employed,18197.0,800.0,20.0,12,2026-02-13,2026-02-17,,,Approved,99.65,Emergency needs,0,0
+450,CUS-0188,Victor Mumba,Unemployed,1733.0,4000.0,10.0,3,2026-04-07,2026-04-10,2026-04-14,2026-07-13,Overdue,81.53,Vehicle repair,778.7,0
+451,CUS-0159,Joshua Banda,Self-Employed,17113.0,13100.0,20.0,3,2026-05-14,2026-05-18,2026-05-20,2026-08-18,Disbursed,93.88,Medical expenses,1063.71,0
+452,CUS-0134,Thandiwe Lungu,Self-Employed,8875.0,4900.0,15.0,24,2026-04-19,2026-04-22,2026-04-25,2028-04-14,Disbursed,95.58,Medical expenses,875.03,0
+453,CUS-0186,Memory Mumbula,Employed,5400.0,25300.0,18.0,36,2025-09-15,,,,Rejected,57.52,Emergency needs,0,0
+454,CUS-0115,Kelvin Banda,Employed,19867.0,26400.0,20.0,18,2025-11-25,2025-11-28,2025-12-02,2027-05-26,Disbursed,89.37,Emergency needs,13117.21,0
+455,CUS-0112,Eunice Zulu,Other,1048.0,8100.0,24.0,12,2025-10-07,,,,Rejected,45.0,Vehicle repair,0,0
+456,CUS-0128,Mercy Nyirenda,Other,19.0,23400.0,12.0,3,2026-05-02,,,,Pending,45.0,Farm inputs,0,0
+457,CUS-0178,Eunice Musonda,Other,2670.0,11000.0,20.0,12,2025-06-21,2025-06-25,2025-06-27,2026-06-22,Overdue,67.04,Medical expenses,6659.97,130.8
+458,CUS-0025,Ruth Mutale,Other,2.0,13600.0,15.0,9,2025-12-07,,,,Rejected,45.0,Working capital,0,0
+459,CUS-0089,Joshua Mwila,Unemployed,2745.0,24000.0,12.0,9,2026-03-06,,,,Pending,45.0,House renovation,0,0
+460,CUS-0066,Brian Mwelwa,Retired,7336.0,9700.0,12.0,12,2026-06-28,2026-06-30,2026-07-04,2027-06-29,Disbursed,89.42,Emergency needs,6281.37,0
+461,CUS-0121,Eunice Tembo,Self-Employed,3697.0,24200.0,12.0,18,2026-01-04,,,,Pending,47.63,Personal development,0,0
+462,CUS-0177,Memory Ngoma,Retired,3069.0,5100.0,12.0,6,2025-12-04,,,,Pending,86.71,Farm inputs,0,0
+463,CUS-0168,Joshua Zulu,Other,1524.0,14900.0,10.0,24,2026-01-18,,,,Rejected,45.0,Vehicle repair,0,0
+464,CUS-0049,Victor Phiri,Other,3138.0,27000.0,20.0,3,2026-02-10,,,,Pending,45.0,Personal development,0,0
+465,CUS-0159,Joshua Banda,Self-Employed,17113.0,25300.0,15.0,24,2026-04-20,2026-04-24,2026-04-28,2028-04-17,Disbursed,88.17,Farm inputs,14635.31,0
+466,CUS-0052,Thandiwe Mumbula,Other,4896.0,14700.0,20.0,18,2026-01-02,,,,Pending,75.98,Farm inputs,0,0
+467,CUS-0092,Natasha Chilufya,Self-Employed,19864.0,1500.0,12.0,9,2026-05-08,2026-05-15,2026-05-15,2027-02-09,Disbursed,99.4,Farm inputs,1129.9,0
+468,CUS-0132,Kelvin Sakala,Retired,4504.0,6400.0,10.0,6,2025-12-15,2025-12-21,2025-12-24,2026-06-22,Overdue,88.63,Farm inputs,1100.87,112.38
+469,CUS-0156,Joshua Zulu,Business Owner,10880.0,20000.0,24.0,3,2026-07-14,,,,Pending,85.29,School fees,0,0
+470,CUS-0181,Caroline Mumbula,Business Owner,15005.0,5000.0,18.0,12,2025-11-07,,,,Pending,97.33,Farm inputs,0,0
+471,CUS-0052,Thandiwe Mumbula,Other,4896.0,9800.0,12.0,9,2025-09-03,2025-09-06,2025-09-09,2026-06-06,Overdue,83.99,Personal development,3858.19,136.48
+472,CUS-0078,Sibamba Lungu,Other,1310.0,24200.0,24.0,3,2026-05-28,,,,Rejected,45.0,House renovation,0,0
+473,CUS-0190,Brian Mumba,Employed,17995.0,17700.0,18.0,9,2025-08-26,2025-08-31,2025-09-03,2026-05-31,Overdue,92.13,Farm inputs,569.98,0
+474,CUS-0022,Victor Kabwe,Unemployed,201.0,22000.0,12.0,6,2026-02-12,,,,Rejected,45.0,Business expansion,0,0
+475,CUS-0215,Chola Phiri,Student,4384.0,20400.0,15.0,9,2025-12-05,,,,Rejected,62.77,Equipment purchase,0,0
+476,CUS-0215,Chola Phiri,Student,4384.0,11800.0,10.0,6,2026-04-30,,,,Rejected,78.47,Vehicle repair,0,0
+477,CUS-0141,Chola Kunda,Employed,21652.0,6800.0,12.0,12,2026-04-21,2026-04-23,2026-04-23,2027-04-18,Completed,97.49,Medical expenses,7616.0,0
+478,CUS-0130,Agnes Sakala,Unemployed,4220.0,7000.0,15.0,36,2026-01-20,,,,Pending,81.73,Emergency needs,0,0
+479,CUS-0048,Thandiwe Mumba,Retired,4708.0,18700.0,10.0,18,2025-01-10,2025-01-16,2025-01-19,2026-07-13,Overdue,68.22,Working capital,3271.32,364.67
+480,CUS-0004,Caroline Mumba,Retired,2489.0,10400.0,24.0,6,2026-05-13,2026-05-17,2026-05-18,2026-11-14,Disbursed,66.57,Business expansion,2744.43,0
+481,CUS-0152,Brian Chilufya,Student,1728.0,15200.0,12.0,9,2026-06-09,,,,Pending,45.0,Vehicle repair,0,0
+482,CUS-0150,Ruth Tembo,Student,269.0,28500.0,10.0,36,2025-09-23,,,,Rejected,40.0,Vehicle repair,0,0
+483,CUS-0092,Natasha Chilufya,Self-Employed,19864.0,29900.0,20.0,6,2026-05-05,2026-05-08,2026-05-09,2026-11-05,Completed,87.96,Personal development,32890.0,0
+484,CUS-0176,Mercy Ngoma,Unemployed,2095.0,16600.0,24.0,6,2025-10-31,,,,Rejected,45.0,Working capital,0,0
+485,CUS-0048,Thandiwe Mumba,Retired,4708.0,900.0,18.0,6,2025-11-29,2025-12-06,2025-12-07,2026-06-05,Overdue,98.47,House renovation,472.25,10.18
+486,CUS-0013,Memory Mwelwa,Self-Employed,22651.0,26600.0,10.0,18,2026-06-21,2026-06-27,2026-07-01,2027-12-23,Completed,90.61,Emergency needs,30590.0,0
+487,CUS-0006,Eunice Mwelwa,Retired,7752.0,29900.0,18.0,24,2025-12-16,,,,Pending,69.14,Farm inputs,0,0
+488,CUS-0100,Agnes Mutale,Retired,5834.0,6400.0,18.0,9,2026-07-03,2026-07-04,2026-07-07,2027-04-03,Completed,91.22,Working capital,7264.0,0
+489,CUS-0214,Gabriel Banda,Retired,3163.0,6500.0,18.0,24,2025-12-13,,,,Pending,83.56,Personal development,0,0
+490,CUS-0195,Mercy Mwila,Self-Employed,16645.0,3000.0,10.0,36,2025-10-10,,,,Pending,93.56,Vehicle repair,0,0
+491,CUS-0186,Memory Mumbula,Employed,5400.0,2500.0,20.0,36,2025-09-26,,,,Pending,91.3,Farm inputs,0,0
+492,CUS-0208,Mercy Mumbula,Student,2599.0,8100.0,18.0,6,2026-01-05,2026-01-10,2026-01-12,2026-07-11,Overdue,75.07,Vehicle repair,2498.98,0
+493,CUS-0081,Mercy Mumba,Other,1587.0,18200.0,18.0,18,2026-04-28,,,,Pending,45.0,Farm inputs,0,0
+494,CUS-0011,Lillian Banda,Business Owner,18431.0,15900.0,12.0,36,2026-04-13,2026-04-19,2026-04-20,2029-04-04,Completed,88.1,Farm inputs,21624.0,0
+495,CUS-0143,Eunice Tembo,Employed,21854.0,5800.0,15.0,9,2025-10-05,2025-10-12,2025-10-14,2026-07-11,Disbursed,97.88,Working capital,1199.04,0
+496,CUS-0154,Natasha Mutale,Self-Employed,20344.0,5000.0,24.0,36,2026-06-05,2026-06-12,2026-06-12,2029-05-27,Disbursed,93.03,Medical expenses,6145.26,0
+497,CUS-0095,Gabriel Chilufya,Employed,9230.0,1200.0,20.0,24,2026-01-08,2026-01-10,2026-01-10,2027-12-31,Disbursed,98.96,Emergency needs,164.97,0
+498,CUS-0038,Eunice Mwelwa,Other,3526.0,10100.0,10.0,36,2026-03-09,2026-03-10,2026-03-12,2029-02-24,Disbursed,72.08,House renovation,6043.89,0
+499,CUS-0149,Natasha Chilufya,Employed,9057.0,28900.0,15.0,36,2026-05-28,2026-06-02,2026-06-03,2029-05-18,Completed,69.47,School fees,41905.0,0
+500,CUS-0132,Kelvin Sakala,Retired,4504.0,27200.0,18.0,9,2025-11-17,,,,Pending,51.69,Personal development,0,0
+501,CUS-0028,Eunice Mumbula,Unemployed,547.0,6400.0,20.0,24,2026-07-12,,,,Rejected,45.0,School fees,0,0
+502,CUS-0104,Eunice Nyirenda,Student,1091.0,26600.0,24.0,36,2025-12-28,,,,Rejected,40.0,Farm inputs,0,0
+503,CUS-0083,Ruth Chanda,Employed,14412.0,11700.0,15.0,36,2026-05-23,,,,Pending,88.51,School fees,0,0
+504,CUS-0049,Victor Phiri,Other,3138.0,12700.0,20.0,3,2026-07-01,2026-07-06,2026-07-09,2026-10-07,Disbursed,67.62,Equipment purchase,4488.89,0
+505,CUS-0168,Joshua Zulu,Other,1524.0,11700.0,15.0,24,2026-06-18,,,,Pending,45.0,Equipment purchase,0,0
+506,CUS-0142,Memory Chilufya,Retired,6495.0,29100.0,18.0,12,2025-06-29,2025-07-03,2025-07-04,2026-06-29,Overdue,64.16,Vehicle repair,11015.05,466.46
+507,CUS-0193,Natasha Kunda,Retired,1261.0,18000.0,18.0,24,2026-04-12,,,,Rejected,45.0,Emergency needs,0,0
+508,CUS-0033,Agnes Musonda,Student,4069.0,5200.0,20.0,12,2025-05-28,2025-05-29,2025-05-30,2026-05-25,Overdue,89.78,Emergency needs,2379.83,77.2
+509,CUS-0032,Grace Mumbula,Retired,3532.0,8000.0,24.0,6,2026-03-20,2026-03-22,2026-03-24,2026-09-20,Disbursed,81.88,Equipment purchase,4258.6,0
+510,CUS-0067,Adrian Kabwe,Employed,17513.0,11400.0,24.0,6,2026-02-16,,,,Pending,94.79,Working capital,0,0
+511,CUS-0076,Gabriel Nyirenda,Retired,4048.0,6600.0,12.0,24,2025-12-20,2025-12-27,2025-12-31,2027-12-21,Disbursed,86.96,House renovation,2091.88,0
+512,CUS-0108,Gabriel Musonda,Employed,15667.0,22300.0,24.0,24,2024-08-10,2024-08-11,2024-08-14,2026-08-04,Overdue,88.61,Vehicle repair,10888.31,442.31
+513,CUS-0216,Caroline Chanda,Student,3248.0,21100.0,10.0,3,2026-03-13,,,,Pending,48.03,House renovation,0,0
+514,CUS-0121,Eunice Tembo,Self-Employed,3697.0,16900.0,24.0,24,2025-09-19,2025-09-23,2025-09-24,2027-09-14,Disbursed,63.43,House renovation,12298.9,0
+515,CUS-0182,Gabriel Zulu,Employed,4884.0,22900.0,18.0,12,2026-07-03,2026-07-09,,,Approved,62.49,Farm inputs,0,0
+516,CUS-0132,Kelvin Sakala,Retired,4504.0,9800.0,24.0,24,2026-06-13,2026-06-18,2026-06-18,2028-06-07,Disbursed,82.59,Business expansion,1784.3,0
+517,CUS-0110,Thandiwe Nyirenda,Self-Employed,23535.0,4200.0,18.0,18,2026-01-15,2026-01-21,2026-01-24,2027-07-18,Disbursed,98.57,Farm inputs,1078.96,0
+518,CUS-0146,Gabriel Kabwe,Self-Employed,5288.0,7300.0,24.0,9,2026-01-06,2026-01-09,2026-01-10,2026-10-07,Disbursed,88.96,Working capital,4438.69,0
+519,CUS-0090,Grace Chilufya,Business Owner,18847.0,7700.0,12.0,9,2026-07-22,2026-07-24,2026-07-24,2027-04-20,Completed,96.73,Farm inputs,8393.0,0
+520,CUS-0018,Adrian Mwila,Self-Employed,22455.0,1900.0,18.0,12,2026-04-25,,,,Pending,99.32,Equipment purchase,0,0
+521,CUS-0167,Kelvin Mbewe,Self-Employed,22050.0,21900.0,20.0,12,2026-03-21,2026-03-26,2026-03-29,2027-03-24,Completed,92.05,Equipment purchase,26280.0,0
+522,CUS-0014,Chola Chilufya,Business Owner,12953.0,24700.0,24.0,36,2023-07-17,2023-07-19,2023-07-22,2026-07-06,Overdue,79.74,Equipment purchase,14568.5,558.31
+523,CUS-0010,Thandiwe Kunda,Unemployed,4136.0,20400.0,15.0,36,2026-04-20,,,,Pending,55.54,House renovation,0,0
+524,CUS-0093,Thandiwe Kabwe,Self-Employed,9682.0,6200.0,15.0,24,2025-10-20,2025-10-25,2025-10-27,2027-10-17,Disbursed,94.88,Farm inputs,666.55,0
+525,CUS-0161,Chola Kabwe,Employed,4780.0,25000.0,20.0,12,2026-01-04,,,,Rejected,58.16,Personal development,0,0
+526,CUS-0124,Natasha Phiri,Unemployed,2946.0,28800.0,12.0,24,2026-01-01,,,,Rejected,45.0,School fees,0,0
+527,CUS-0120,Lillian Chilufya,Employed,5717.0,17100.0,12.0,24,2025-11-25,2025-11-28,2025-11-29,2027-11-19,Completed,76.07,School fees,21204.0,0
+528,CUS-0043,Ruth Nyirenda,Self-Employed,4345.0,22500.0,20.0,12,2026-01-08,,,,Rejected,58.57,Working capital,0,0
+529,CUS-0083,Ruth Chanda,Employed,14412.0,14300.0,18.0,3,2026-06-10,,,,Pending,92.06,Farm inputs,0,0
+530,CUS-0080,Memory Chanda,Retired,1587.0,6000.0,15.0,24,2026-04-14,2026-04-19,2026-04-21,2028-04-10,Disbursed,69.75,Farm inputs,5778.68,0
+531,CUS-0035,Kelvin Zulu,Self-Employed,11805.0,24100.0,15.0,12,2026-06-28,,,,Pending,83.67,Business expansion,0,0
+532,CUS-0170,Lillian Lungu,Student,1579.0,20900.0,15.0,12,2026-04-03,,,,Rejected,45.0,Emergency needs,0,0
+533,CUS-0063,Eunice Chanda,Other,489.0,11200.0,24.0,3,2026-06-11,,,,Rejected,45.0,Equipment purchase,0,0
+534,CUS-0077,Victor Mutale,Student,2254.0,29300.0,10.0,18,2025-11-22,,,,Rejected,45.0,Emergency needs,0,0
+535,CUS-0068,Memory Banda,Unemployed,2767.0,6800.0,20.0,24,2026-02-18,,,,Pending,80.34,Farm inputs,0,0
+536,CUS-0165,Peter Mumbula,Self-Employed,15931.0,5600.0,24.0,9,2026-06-27,2026-07-04,2026-07-08,2027-04-04,Disbursed,97.19,Farm inputs,752.88,0
+537,CUS-0085,Mercy Chanda,Other,1679.0,2800.0,12.0,18,2025-11-27,2025-11-30,,,Approved,86.66,Farm inputs,0,0
+538,CUS-0177,Memory Ngoma,Retired,3069.0,14300.0,24.0,24,2025-12-01,2025-12-07,2025-12-10,2027-11-30,Disbursed,62.72,Business expansion,3866.32,0
+539,CUS-0069,James Mwelwa,Self-Employed,3266.0,20500.0,24.0,24,2025-10-02,2025-10-06,,,Approved,49.79,Medical expenses,0,0
+540,CUS-0122,Sibamba Chilufya,Unemployed,1632.0,15100.0,15.0,6,2025-10-21,,,,Pending,45.0,School fees,0,0
+541,CUS-0217,James Chilufya,Self-Employed,21516.0,10200.0,18.0,36,2023-06-17,2023-06-18,2023-06-21,2026-06-05,Overdue,91.21,Business expansion,8524.62,143.67
+542,CUS-0091,Brian Mbewe,Business Owner,5309.0,6700.0,24.0,18,2026-01-23,2026-01-29,2026-01-30,2027-07-24,Disbursed,89.9,House renovation,1632.81,0
+543,CUS-0074,Mercy Mumba,Business Owner,21042.0,15100.0,10.0,18,2025-12-05,2025-12-11,2025-12-12,2027-06-05,Completed,94.26,Personal development,17365.0,0
+544,CUS-0108,Gabriel Musonda,Employed,15667.0,5900.0,10.0,6,2026-02-10,2026-02-16,2026-02-17,2026-08-16,Disbursed,96.99,Business expansion,3986.71,0
+545,CUS-0067,Adrian Kabwe,Employed,17513.0,29300.0,20.0,3,2025-12-01,2025-12-02,2025-12-02,2026-03-02,Disbursed,86.62,Farm inputs,2785.44,0
+546,CUS-0206,Joshua Banda,Unemployed,2031.0,22300.0,12.0,3,2026-01-31,,,,Pending,45.0,Business expansion,0,0
+547,CUS-0131,Agnes Nyirenda,Other,2547.0,3600.0,24.0,24,2026-05-16,2026-05-20,2026-05-22,2028-05-11,Disbursed,88.69,Personal development,438.56,0
+548,CUS-0140,Agnes Mbewe,Unemployed,4506.0,6300.0,12.0,18,2026-04-28,2026-05-02,2026-05-05,2027-10-27,Completed,88.81,Farm inputs,7434.0,0
+549,CUS-0074,Mercy Mumba,Business Owner,21042.0,12400.0,12.0,9,2026-02-02,2026-02-07,2026-02-08,2026-11-05,Completed,95.29,Personal development,13516.0,0
+550,CUS-0072,James Lungu,Unemployed,4133.0,24500.0,20.0,12,2025-12-16,2025-12-17,,,Approved,52.58,Equipment purchase,0,0
+551,CUS-0062,Victor Zulu,Employed,24654.0,27700.0,15.0,6,2026-01-13,2026-01-18,2026-01-20,2026-07-19,Overdue,91.01,House renovation,14306.11,309.43
+552,CUS-0107,Peter Zulu,Retired,6997.0,27500.0,20.0,3,2026-01-07,,,,Pending,68.56,Medical expenses,0,0
+553,CUS-0090,Grace Chilufya,Business Owner,18847.0,5500.0,12.0,9,2026-07-27,2026-07-30,,,Approved,97.67,Equipment purchase,0,0
+554,CUS-0044,Eunice Zulu,Employed,17567.0,28000.0,10.0,18,2024-11-22,2024-11-26,2024-11-30,2026-05-24,Overdue,87.25,Emergency needs,1610.26,611.79
+555,CUS-0033,Agnes Musonda,Student,4069.0,8700.0,15.0,36,2026-01-31,2026-02-05,2026-02-06,2029-01-21,Disbursed,77.9,Personal development,1399.18,0
+556,CUS-0131,Agnes Nyirenda,Other,2547.0,29100.0,18.0,36,2026-06-13,,,,Rejected,40.0,House renovation,0,0
+557,CUS-0194,Caroline Chilufya,Employed,5391.0,10200.0,20.0,12,2025-06-15,2025-06-17,2025-06-20,2026-06-15,Overdue,84.86,Equipment purchase,3780.85,0
+558,CUS-0172,Joshua Sakala,Business Owner,13164.0,12200.0,18.0,3,2025-12-19,,,,Rejected,92.59,Emergency needs,0,0
+559,CUS-0034,Sibamba Mwila,Other,4269.0,1900.0,18.0,24,2026-01-30,2026-01-31,2026-02-03,2028-01-24,Disbursed,96.44,Working capital,816.45,0
+560,CUS-0142,Memory Chilufya,Retired,6495.0,16400.0,15.0,9,2026-06-15,2026-06-21,2026-06-23,2027-03-20,Disbursed,79.8,Farm inputs,11728.95,0
+561,CUS-0018,Adrian Mwila,Self-Employed,22455.0,3000.0,24.0,18,2026-04-04,2026-04-09,,,Approved,98.93,Equipment purchase,0,0
+562,CUS-0022,Victor Kabwe,Unemployed,201.0,14000.0,10.0,12,2026-05-31,,,,Rejected,45.0,Business expansion,0,0
+563,CUS-0098,Lillian Musonda,Retired,6369.0,15200.0,24.0,3,2025-09-19,2025-09-23,2025-09-24,2025-12-23,Disbursed,80.91,Emergency needs,9787.44,0
+564,CUS-0082,Victor Banda,Unemployed,2052.0,25000.0,10.0,9,2025-12-19,,,,Rejected,45.0,Medical expenses,0,0
+565,CUS-0115,Kelvin Banda,Employed,19867.0,28200.0,15.0,18,2026-02-25,2026-03-02,2026-03-02,2027-08-24,Disbursed,88.64,Working capital,7350.73,0
+566,CUS-0024,James Nyirenda,Other,4239.0,15200.0,18.0,12,2026-02-15,2026-02-19,,,Approved,71.31,Working capital,0,0
+567,CUS-0085,Mercy Chanda,Other,1679.0,18100.0,12.0,36,2025-10-03,2025-10-08,,,Approved,40.0,School fees,0,0
+568,CUS-0152,Brian Chilufya,Student,1728.0,6600.0,20.0,9,2026-06-12,2026-06-14,,,Approved,69.44,House renovation,0,0
+569,CUS-0086,Eunice Nyirenda,Student,4708.0,1800.0,12.0,12,2026-06-28,,,,Rejected,96.94,House renovation,0,0
+570,CUS-0029,Grace Chanda,Unemployed,3271.0,19200.0,10.0,9,2026-07-03,,,,Rejected,53.04,Farm inputs,0,0
+571,CUS-0104,Eunice Nyirenda,Student,1091.0,5000.0,18.0,18,2025-01-29,2025-01-30,2025-02-02,2026-07-27,Overdue,63.34,School fees,2327.1,80.46
+572,CUS-0182,Gabriel Zulu,Employed,4884.0,1700.0,10.0,6,2026-06-20,2026-06-27,2026-06-27,2026-12-24,Disbursed,97.22,School fees,1027.46,0
+573,CUS-0179,Lillian Banda,Retired,5869.0,26300.0,12.0,36,2025-11-30,,,,Pending,59.15,Emergency needs,0,0
+574,CUS-0210,Peter Mutale,Other,2293.0,25900.0,10.0,18,2026-03-08,,,,Rejected,45.0,Vehicle repair,0,0
+575,CUS-0187,Agnes Sakala,Unemployed,4539.0,19600.0,10.0,6,2026-03-18,2026-03-19,2026-03-21,2026-09-17,Disbursed,65.45,Business expansion,8205.56,0
+576,CUS-0130,Agnes Sakala,Unemployed,4220.0,12600.0,18.0,3,2025-10-08,2025-10-10,,,Approved,76.11,House renovation,0,0
+577,CUS-0111,Gabriel Mumbula,Self-Employed,15029.0,22200.0,18.0,36,2026-04-07,,,,Pending,83.18,House renovation,0,0
+578,CUS-0203,Lillian Lungu,Business Owner,5076.0,8300.0,24.0,36,2023-06-20,2023-06-27,2023-06-28,2026-06-12,Overdue,81.92,Emergency needs,6609.31,153.33
+579,CUS-0187,Agnes Sakala,Unemployed,4539.0,26000.0,24.0,3,2026-05-21,,,,Rejected,54.17,Emergency needs,0,0
+580,CUS-0136,Caroline Ngoma,Business Owner,22554.0,8400.0,15.0,6,2026-01-28,2026-01-31,2026-02-02,2026-08-01,Overdue,97.02,Farm inputs,3294.92,114.7
+581,CUS-0094,Agnes Mumbula,Other,798.0,18600.0,20.0,12,2026-01-18,,,,Rejected,45.0,House renovation,0,0
+582,CUS-0075,Victor Musonda,Other,1204.0,1800.0,20.0,18,2025-09-29,2025-10-05,2025-10-07,2027-03-31,Disbursed,88.04,Emergency needs,602.28,0
+583,CUS-0050,Lillian Mulenga,Self-Employed,13107.0,15200.0,24.0,18,2026-06-07,2026-06-09,2026-06-11,2027-12-03,Completed,90.72,School fees,20672.0,0
+584,CUS-0086,Eunice Nyirenda,Student,4708.0,3800.0,10.0,3,2026-02-14,,,,Rejected,93.54,House renovation,0,0
+585,CUS-0201,Peter Zulu,Employed,14339.0,17700.0,10.0,9,2025-10-07,,,,Pending,90.12,Vehicle repair,0,0
+586,CUS-0109,Joshua Mwila,Student,4898.0,22700.0,18.0,24,2026-04-01,2026-04-05,2026-04-08,2028-03-28,Completed,62.92,Vehicle repair,30872.0,0
+587,CUS-0033,Agnes Musonda,Student,4069.0,16000.0,10.0,6,2026-01-02,2026-01-09,2026-01-10,2026-07-09,Disbursed,68.54,Emergency needs,9963.96,0
+588,CUS-0194,Caroline Chilufya,Employed,5391.0,28900.0,10.0,9,2025-10-07,,,,Rejected,57.11,Emergency needs,0,0
+589,CUS-0124,Natasha Phiri,Unemployed,2946.0,11300.0,24.0,3,2025-11-27,2025-11-28,2025-12-02,2026-03-02,Completed,69.31,Farm inputs,11978.0,0
+590,CUS-0063,Eunice Chanda,Other,489.0,8600.0,20.0,18,2025-12-11,,,,Pending,45.0,Working capital,0,0
+591,CUS-0218,Victor Mumba,Other,4155.0,24200.0,20.0,12,2026-01-16,,,,Rejected,53.41,Personal development,0,0
+592,CUS-0186,Memory Mumbula,Employed,5400.0,24400.0,10.0,9,2025-10-01,,,,Pending,63.85,House renovation,0,0
+593,CUS-0127,Thandiwe Musonda,Self-Employed,10090.0,2000.0,15.0,24,2026-06-26,2026-06-28,2026-06-29,2028-06-18,Disbursed,98.41,Farm inputs,1757.67,0
+594,CUS-0217,James Chilufya,Self-Employed,21516.0,1400.0,24.0,9,2025-12-21,,,,Pending,99.48,Business expansion,0,0
+595,CUS-0086,Eunice Nyirenda,Student,4708.0,16300.0,24.0,24,2026-05-10,,,,Rejected,72.3,Working capital,0,0
+596,CUS-0134,Thandiwe Lungu,Self-Employed,8875.0,10000.0,24.0,24,2026-06-16,2026-06-21,2026-06-23,2028-06-12,Completed,90.99,Business expansion,14800.0,0
+597,CUS-0115,Kelvin Banda,Employed,19867.0,28000.0,15.0,18,2026-05-05,,,,Pending,88.73,House renovation,0,0
+598,CUS-0184,Peter Nyirenda,Other,1806.0,21200.0,20.0,36,2025-09-21,,,,Rejected,40.0,School fees,0,0
+599,CUS-0111,Gabriel Mumbula,Self-Employed,15029.0,5400.0,10.0,24,2025-10-11,,,,Pending,97.13,Business expansion,0,0
+600,CUS-0178,Eunice Musonda,Other,2670.0,4700.0,18.0,24,2024-05-07,2024-05-12,2024-05-16,2026-05-06,Overdue,85.92,Personal development,1707.89,93.68
+601,CUS-0116,James Phiri,Retired,7262.0,15600.0,12.0,12,2026-03-12,2026-03-19,2026-03-22,2027-03-17,Disbursed,82.81,Personal development,10670.43,0
+602,CUS-0037,Victor Musonda,Business Owner,20949.0,25300.0,15.0,36,2026-03-09,2026-03-14,2026-03-18,2029-03-02,Disbursed,85.34,Vehicle repair,8664.53,0
+603,CUS-0202,Adrian Mumbula,Other,2986.0,23900.0,15.0,24,2026-01-29,,,,Rejected,45.0,Personal development,0,0
+604,CUS-0097,Agnes Mulenga,Unemployed,3533.0,2200.0,12.0,36,2026-03-25,2026-03-31,2026-04-02,2029-03-17,Disbursed,90.02,Equipment purchase,692.49,0
+605,CUS-0214,Gabriel Banda,Retired,3163.0,4700.0,20.0,3,2025-12-23,2025-12-25,2025-12-27,2026-03-27,Completed,88.11,Farm inputs,4935.0,0
+606,CUS-0191,Eunice Mbewe,Self-Employed,23417.0,29300.0,12.0,18,2025-11-28,2025-12-05,2025-12-09,2027-06-02,Disbursed,89.99,Personal development,23211.94,0
+607,CUS-0062,Victor Zulu,Employed,24654.0,21200.0,24.0,6,2026-03-11,2026-03-14,2026-03-14,2026-09-10,Disbursed,93.12,Working capital,4531.33,0
+608,CUS-0197,James Ngoma,Self-Employed,11716.0,4900.0,24.0,24,2025-11-15,2025-11-18,2025-11-20,2027-11-10,Disbursed,96.65,School fees,3897.58,0
+609,CUS-0009,Brian Phiri,Student,3065.0,20500.0,24.0,3,2026-05-16,,,,Pending,46.49,Business expansion,0,0
+610,CUS-0131,Agnes Nyirenda,Other,2547.0,1200.0,15.0,24,2025-09-30,,,,Pending,96.23,Farm inputs,0,0
+611,CUS-0113,Sibamba Musonda,Business Owner,24673.0,15900.0,20.0,12,2026-04-01,2026-04-03,2026-04-04,2027-03-30,Disbursed,94.84,Personal development,10056.46,0
+612,CUS-0134,Thandiwe Lungu,Self-Employed,8875.0,7600.0,18.0,18,2025-11-22,,,,Pending,93.15,Farm inputs,0,0
+613,CUS-0215,Chola Phiri,Student,4384.0,17600.0,12.0,3,2025-11-19,,,,Rejected,67.88,Farm inputs,0,0
+614,CUS-0068,Memory Banda,Unemployed,2767.0,28400.0,20.0,9,2025-09-29,,,,Rejected,45.0,House renovation,0,0
+615,CUS-0005,Caroline Mumba,Employed,24146.0,13300.0,20.0,12,2026-01-26,,,,Pending,95.59,Equipment purchase,0,0
+616,CUS-0069,James Mwelwa,Self-Employed,3266.0,2300.0,12.0,9,2025-10-15,2025-10-18,2025-10-22,2026-07-19,Disbursed,94.37,Working capital,1631.89,0
+617,CUS-0108,Gabriel Musonda,Employed,15667.0,18600.0,15.0,18,2026-03-12,2026-03-17,2026-03-18,2027-09-09,Disbursed,90.5,House renovation,4220.71,0
+618,CUS-0037,Victor Musonda,Business Owner,20949.0,24500.0,15.0,24,2026-07-06,,,,Pending,90.64,House renovation,0,0
+619,CUS-0128,Mercy Nyirenda,Other,19.0,900.0,12.0,12,2026-01-18,,,,Pending,45.0,Equipment purchase,0,0
+620,CUS-0142,Memory Chilufya,Retired,6495.0,20000.0,20.0,12,2025-10-31,2025-11-07,2025-11-10,2026-11-05,Disbursed,75.37,Emergency needs,11524.24,0
+621,CUS-0181,Caroline Mumbula,Business Owner,15005.0,3400.0,24.0,6,2025-12-05,2025-12-08,2025-12-10,2026-06-08,Overdue,98.19,Emergency needs,1283.6,50.49
+622,CUS-0053,Peter Tembo,Self-Employed,9727.0,22900.0,20.0,36,2026-04-05,2026-04-11,2026-04-11,2029-03-26,Completed,76.17,Business expansion,36640.0,0
+623,CUS-0091,Brian Mbewe,Business Owner,5309.0,5700.0,10.0,3,2025-12-16,2025-12-22,2025-12-25,2026-03-25,Disbursed,91.41,Farm inputs,390.79,0
+624,CUS-0155,James Mutale,Self-Employed,24524.0,25500.0,10.0,12,2026-03-02,2026-03-08,2026-03-11,2027-03-06,Disbursed,91.68,House renovation,13300.57,0
+625,CUS-0164,James Ngoma,Other,3509.0,26100.0,15.0,36,2025-11-03,,,,Pending,40.0,House renovation,0,0
+626,CUS-0114,Gabriel Mumbula,Employed,19085.0,26700.0,24.0,3,2026-06-16,2026-06-19,2026-06-20,2026-09-18,Completed,88.81,Equipment purchase,28302.0,0
+627,CUS-0100,Agnes Mutale,Retired,5834.0,27600.0,12.0,18,2026-05-01,2026-05-08,2026-05-08,2027-10-30,Completed,62.15,Medical expenses,32568.0,0
+628,CUS-0062,Victor Zulu,Employed,24654.0,19300.0,15.0,24,2026-02-06,,,,Pending,93.74,Emergency needs,0,0
+629,CUS-0175,Joshua Nyirenda,Business Owner,11175.0,21100.0,18.0,12,2025-10-21,2025-10-22,2025-10-25,2026-10-20,Disbursed,84.89,Working capital,10542.05,0
+630,CUS-0197,James Ngoma,Self-Employed,11716.0,7100.0,12.0,36,2026-01-03,2026-01-10,2026-01-12,2028-12-27,Disbursed,90.15,Business expansion,2107.09,0
+631,CUS-0074,Mercy Mumba,Business Owner,21042.0,9100.0,20.0,12,2025-11-09,2025-11-12,2025-11-13,2026-11-08,Disbursed,96.54,House renovation,6269.44,0
+632,CUS-0025,Ruth Mutale,Other,2.0,12700.0,24.0,24,2025-09-17,,,,Rejected,45.0,Working capital,0,0
+633,CUS-0095,Gabriel Chilufya,Employed,9230.0,16600.0,24.0,36,2023-06-01,2023-06-05,2023-06-09,2026-05-24,Overdue,80.61,Equipment purchase,6631.55,438.41
+634,CUS-0014,Chola Chilufya,Business Owner,12953.0,10800.0,10.0,18,2026-04-28,,,,Pending,93.33,Vehicle repair,0,0
+635,CUS-0078,Sibamba Lungu,Other,1310.0,7300.0,15.0,3,2025-09-12,2025-09-16,,,Approved,55.42,Medical expenses,0,0
+636,CUS-0091,Brian Mbewe,Business Owner,5309.0,12800.0,20.0,12,2025-11-15,2025-11-17,2025-11-18,2026-11-13,Disbursed,80.71,Equipment purchase,7608.94,0
+637,CUS-0143,Eunice Tembo,Employed,21854.0,29400.0,10.0,9,2026-04-08,,,,Pending,89.24,Vehicle repair,0,0
+638,CUS-0007,Kelvin Kabwe,Employed,4533.0,18000.0,20.0,9,2026-07-10,,,,Pending,68.23,Working capital,0,0
+639,CUS-0143,Eunice Tembo,Employed,21854.0,10700.0,24.0,18,2025-10-02,2025-10-06,,,Approved,96.08,Equipment purchase,0,0
+640,CUS-0075,Victor Musonda,Other,1204.0,17000.0,20.0,9,2025-12-06,,,,Rejected,45.0,Farm inputs,0,0
+641,CUS-0164,James Ngoma,Other,3509.0,1700.0,18.0,18,2026-05-24,2026-05-29,2026-06-02,2027-11-24,Disbursed,96.12,Emergency needs,235.38,0
+642,CUS-0025,Ruth Mutale,Other,2.0,27500.0,10.0,36,2026-01-02,,,,Rejected,40.0,Medical expenses,0,0
+643,CUS-0170,Lillian Lungu,Student,1579.0,27300.0,15.0,3,2025-10-21,,,,Rejected,45.0,Emergency needs,0,0
+644,CUS-0161,Chola Kabwe,Employed,4780.0,10000.0,15.0,6,2026-05-10,2026-05-11,2026-05-15,2026-11-11,Completed,83.26,Equipment purchase,10750.0,0
+645,CUS-0053,Peter Tembo,Self-Employed,9727.0,25100.0,15.0,9,2026-05-27,2026-05-29,2026-05-30,2027-02-24,Disbursed,79.36,School fees,10294.84,0
+646,CUS-0083,Ruth Chanda,Employed,14412.0,16900.0,18.0,12,2026-06-22,2026-06-28,2026-07-02,2027-06-27,Disbursed,90.62,Farm inputs,6794.23,0
+647,CUS-0048,Thandiwe Mumba,Retired,4708.0,24000.0,24.0,36,2026-04-22,,,,Rejected,54.22,Farm inputs,0,0
+648,CUS-0143,Eunice Tembo,Employed,21854.0,20300.0,18.0,6,2025-12-03,2025-12-10,2025-12-10,2026-06-08,Disbursed,92.57,Working capital,8615.65,0
+649,CUS-0019,Lillian Tembo,Student,3780.0,19800.0,20.0,18,2025-11-23,,,,Rejected,58.1,Emergency needs,0,0
+650,CUS-0144,Brian Chilufya,Business Owner,5832.0,8300.0,24.0,24,2026-02-23,,,,Pending,88.61,Business expansion,0,0
